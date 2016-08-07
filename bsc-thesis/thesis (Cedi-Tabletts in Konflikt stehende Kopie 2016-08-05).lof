@@ -1,0 +1,20 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Mathematical expression of k-means \cite {ngcs229}}}{9}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Example of k-means iteration \cite {ngcs229}}}{9}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Average Fit per centroid per k}}{10}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Two dimensional example of Language Differentiation}}{12}{figure.2.4}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Simplified data flow in the single k k-means pipeline}}{14}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Simplified data flow in the expanded k-means pipeline}}{15}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Simplified data flow in the Language Differentiator pipeline}}{15}{figure.3.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Plot of elbow method. Heuristic value of k, given $\alpha $}}{18}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Nearest statements per centroids, created witch Type Structure Representor}}{24}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Nearest statements per centroids, created witch Type Specific Representor}}{25}{figure.4.3}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Pharo 4.0 playground for configuring and running StrucureFinder}}{41}{figure.8.1}

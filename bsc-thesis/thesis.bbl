@@ -1,0 +1,48 @@
+\begin{thebibliography}{1}
+
+\bibitem{bergel2013deep}
+Alexandre Bergel, Damien Cassou, St{\'e}phane Ducasse, and Jannik Laval.
+\newblock {\em Deep Into Pharo}.
+\newblock Lulu. com, 2013.
+
+\bibitem{dubey2006inferring}
+Alpana Dubey, Pankaj Jalote, and Sanjeev~Kumar Aggarwal.
+\newblock Inferring grammar rules of programming language dialects.
+\newblock In {\em International Colloquium on Grammatical Inference}, pages
+  201--213. Springer, 2006.
+
+\bibitem{latoza2006maintaining}
+Thomas~D LaToza, Gina Venolia, and Robert DeLine.
+\newblock Maintaining mental models: a study of developer work habits.
+\newblock In {\em Proceedings of the 28th international conference on Software
+  engineering}, pages 492--501. ACM, 2006.
+
+\bibitem{ngcs229}
+Andrew Ng.
+\newblock Cs229 lecture notes.
+
+\bibitem{nierstrasz2012agile}
+Oscar Nierstrasz and Mircea Lungu.
+\newblock Agile software assessment.
+\newblock In {\em Program Comprehension (ICPC), 2012 IEEE 20th International
+  Conference on}, pages 3--10. IEEE, 2012.
+
+\bibitem{rob2016k}
+David Robinson.
+\newblock {K-means clustering is not a free lunch}.
+\newblock \url{http://varianceexplained.org/r/kmeans-free-lunch/}, 2015.
+\newblock [Online; accessed 30-July-2016].
+
+\bibitem{rosenberg2007v}
+Andrew Rosenberg and Julia Hirschberg.
+\newblock V-measure: A conditional entropy-based external cluster evaluation
+  measure.
+\newblock In {\em EMNLP-CoNLL}, volume~7, pages 410--420, 2007.
+
+\bibitem{valdman2001log}
+Jan Valdman.
+\newblock Log file analysis.
+\newblock {\em Department of Computer Science and Engineering (FAV UWB)., Tech.
+  Rep. DCSE/TR-2001-04}, 2001.
+
+\end{thebibliography}
