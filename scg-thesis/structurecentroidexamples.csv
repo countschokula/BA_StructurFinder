@@ -1,0 +1,14 @@
+Type Structure Centroids
+"crit . setCriteriaName ( criteria ) ; "
+"intent . putExtra ( MENSA \_ ID \_ KEY , mensa . getId ( ) ) ; "
+"return container ; "
+* / 
+* List of { @ link Criteria } objects . The List contains a Criteria object for each 
+"import java . util . ArrayList \; "
+mensaListView . setOnItemClickListener ( new OnItemClickListener ( ) { 
+"intent . setFlags ( Intent . FLAG \_ ACTIVITY \_ SINGLE \_ TOP | Intent . FLAG \_ ACTIVITY \_ CLEAR \_ TOP ) ; "
+"showMessage . setText ( R . string . no \_ invites ) ; "
+\* String set of criterias you want to match with . 
+public class CriteriaMatcher { 
+public void onReceive ( Context context , Intent intent ) { 
+\* 
