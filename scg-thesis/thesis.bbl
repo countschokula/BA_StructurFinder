@@ -1,4 +1,19 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{pharo2016}
+\url{http://pharo.org/download}, 2016.
+\newblock [Online; accessed 20-August-2016].
+
+\bibitem{abacus2016}
+\url{http://www.abacus.ch/}, 2016.
+\newblock [Online; accessed 21-August-2016].
+
+\bibitem{baker1993theory}
+Brenda~S Baker.
+\newblock A theory of parameterized pattern matching: algorithms and
+  applications.
+\newblock In {\em Proceedings of the twenty-fifth annual ACM symposium on
+  Theory of computing}, pages 71--80. ACM, 1993.
 
 \bibitem{bergel2013deep}
 Alexandre Bergel, Damien Cassou, St{\'e}phane Ducasse, and Jannik Laval.
@@ -10,6 +25,17 @@ Alpana Dubey, Pankaj Jalote, and Sanjeev~Kumar Aggarwal.
 \newblock Inferring grammar rules of programming language dialects.
 \newblock In {\em International Colloquium on Grammatical Inference}, pages
   201--213. Springer, 2006.
+
+\bibitem{jain2000statistical}
+Anil~K Jain, Robert P.~W. Duin, and Jianchang Mao.
+\newblock Statistical pattern recognition: A review.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  22(1):4--37, 2000.
+
+\bibitem{kodinariya2013review}
+Trupti~M Kodinariya and Prashant~R Makwana.
+\newblock Review on determining number of cluster in k-means clustering.
+\newblock {\em International Journal}, 1(6):90--95, 2013.
 
 \bibitem{latoza2006maintaining}
 Thomas~D LaToza, Gina Venolia, and Robert DeLine.

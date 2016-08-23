@@ -1,15 +1,13 @@
-Representor;homogenity;completeness;v-measure;perfect k;empty centroids,,,
+Representor;homogeneity;completeness;v-measure;perfect k;empty centroids
 Type Structure;0,61;0,9;0,73;13;0
-   Dist Zero;0,47;0,35;0,4;14;4
-   Dist All;0,89;0,53;0,66;13;4
-   Weight Summary;0,25;0,23;0,24;14;8
-   Weight Sum First;0,21;0,27;0,24;11;5
-   Weight Inverse;0,77;0,56;0,65;11;0
-  Dist Zero;;;;;,,,
-   Wheight Summary;0,22;0,42;0,29;16;5
-   Weight Sum First;0,14;0,11;0,12;12;7
-   Weight Inverse;0,72;0;0;11;9,,
-  Dist All;;;;;,,,
-   Weight Summary;0,08;0,29;0,13;13;6
-   Weight Sum First;0,1;0;0;20;13,,
-   Weight Inverse;0,57;0;0;11;5,,
+\quad Dist Zero;0,47;0,35;0,4;14;4
+\quad \quad Weight Summary;0,22;0,42;0,29;16;5
+\quad \quad Weight Sum First;0,14;0,11;0,12;12;7
+\quad \quad Weight Inverse;0,72;0;0;11;9
+\quad Dist All;0,89;0,53;0,66;13;4
+\quad \quad Weight Summary;0,08;0,29;0,13;13;6
+\quad \quad Weight Sum First;0,1;0;0;20;13
+\quad \quad Weight Inverse;0,57;0;0;11;5
+\quad Weight Summary;0,25;0,23;0,24;14;8
+\quad Weight Sum First;0,21;0,27;0,24;11;5
+\quad Weight Inverse;0,77;0,56;0,65;11;0
