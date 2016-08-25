@@ -1,12 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.29)  23 AUG 2016 21:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.7.18)  25 AUG 2016 16:23
 entering extended mode
-**./thesis.tex
-(thesis.tex
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
 LaTeX2e <2016/03/31>
-Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/bk12.clo
 File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -22,7 +25,7 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enitkv@toks@=\toks14
 \labelindent=\skip43
@@ -31,8 +34,8 @@ Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \enit@inbox=\box26
 \enitdp@description=\count88
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
@@ -49,35 +52,28 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \lst@lineno=\count94
 \lst@maxwidth=\dimen107
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count95
 \lst@skipnumbers=\count96
 \lst@framebox=\box28
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\filecontents\filecontents.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/filecontents/filecontents.sty
 Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaT
 eX document
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2012/08/20 v3.3p English support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count97
 \U@D=\dimen108
@@ -86,18 +82,18 @@ File: babel.def 2016/04/23 3.9r Babel common definitions
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\csvsimple\csvsimple.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/csvsimple/csvsimple.sty
 Package: csvsimple 2014/07/14 version 1.12 LaTeX CSV file processing
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks18
 \pgfkeys@temptoks=\toks19
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.te
-x"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
 \pgfkeys@tmptoks=\toks20
-))) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+))) (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \csv@file=\read1
@@ -106,21 +102,21 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \c@csvcol=\count100
 \csv@out=\write3
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count101
@@ -135,16 +131,16 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 96.
@@ -152,11 +148,11 @@ Package graphics Info: Driver file: pdftex.def on input line 96.
 \Gin@req@height=\dimen109
 \Gin@req@width=\dimen110
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2016/05/18 v6512 L3 programming layer (code)
 L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
 L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
@@ -263,12 +259,12 @@ L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
 \l__coffin_scaled_width_dim=\dimen141
 L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2016/03/26 v6465 L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count124
 \l__driver_tmp_box=\box44
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count125
 \l__xparse_m_args_int=\count126
@@ -278,15 +274,15 @@ Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
 )
 Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen142
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen143
 \extrarowheight=\dimen144
@@ -294,7 +290,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip50
 \backup@length=\skip51
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2016/05/18 v6512 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box45
@@ -455,37 +451,36 @@ Package: l3keys2e 2016/05/18 v6512 LaTeX2e option processing using LaTeX3 keys
 . Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7400.
 .................................................
 \g__file_internal_ior=\read2
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator.sty
 Package: translator 2010/06/12 ver 1.10
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator-langu
-age-mappings.tex")))
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/translator-lang
+uage-mappings.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
 \pgfutil@everybye=\toks23
 \pgfutil@tempdima=\dimen157
 \pgfutil@tempdimb=\dimen158
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.te
-x")) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box52
-("C:\Program Files\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex")
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
 \pgf@x=\dimen159
 \pgf@y=\dimen160
 \pgf@xa=\dimen161
@@ -503,34 +498,35 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 \t@pgf@toka=\toks24
 \t@pgf@tokb=\toks25
 \t@pgf@tokc=\toks26
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
 File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
-"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.t
-ex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
 \pgfsyssoftpath@smallbuffer@items=\count151
 \pgfsyssoftpath@bigbuffer@items=\count152
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.t
-ex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
-)) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex"
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
- ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen167
 \pgfmath@count=\count153
 \pgfmath@box=\box53
@@ -538,28 +534,29 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.
-tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometr
-ic.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code
-.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.
-code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.t
-ex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.
-tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.t
-ex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarit
-hmetics.code.tex")))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count154
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
-"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@picminx=\dimen168
 \pgf@picmaxx=\dimen169
@@ -576,111 +573,119 @@ File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
 \pgf@zx=\dimen180
 \pgf@zy=\dimen181
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.c
-ode.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
 \pgf@path@lastx=\dimen182
 \pgf@path@lasty=\dimen183
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.
-tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 \pgf@shorten@end@additional=\dimen184
 \pgf@shorten@start@additional=\dimen185
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
-"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box54
 \pgf@hbox=\box55
 \pgf@layerbox@main=\box56
 \pgf@picture@serial@count=\count155
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.co
-de.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
 \pgflinewidth=\dimen186
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations
-.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
 \pgf@pt@x=\dimen187
 \pgf@pt@y=\dimen188
 \pgf@pt@temp=\dimen189
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.te
-x"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.
-code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
-"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 \pgfarrowsep=\dimen190
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen191
 \pgf@sys@shading@range@num=\count156
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.te
-x"
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.t
-ex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
 \pgfexternal@startupbox=\box57
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
-"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.co
-de.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.t
-ex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
 \pgfnodeparttextbox=\box58
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex"
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.
-sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
 \pgf@nodesepstart=\dimen192
 \pgf@nodesepend=\dimen193
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.
-sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex"))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex"
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex")
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
 \pgffor@iter=\dimen194
 \pgffor@skip=\dimen195
 \pgffor@stack=\toks30
 \pgffor@toks=\toks31
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.
-code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count157
 \pgfplotmarksize=\dimen196
@@ -700,7 +705,8 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikznumberofcurrentchild=\count160
 \tikz@fig@count=\count161
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 \pgfmatrixcurrentrow=\count162
 \pgfmatrixcurrentcolumn=\count163
@@ -708,16 +714,15 @@ File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
 )
 \tikz@expandcount=\count165
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-librarytopaths.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
 )))
-("C:\Program Files\MiKTeX 2.9\tex\latex\pgfplots\pgfplots.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.revision.tex")
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplots 2016/01/06 v1.13 Data Visualization (1.13)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplotscore.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
 \t@pgfplots@toka=\toks32
 \t@pgfplots@tokb=\toks33
 \t@pgfplots@tokc=\toks34
@@ -725,75 +730,81 @@ Package: pgfplots 2016/01/06 v1.13 Data Visualization (1.13)
 \c@pgfplots@coordindex=\count166
 \c@pgfplots@scanlineindex=\count167
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\sys\pgfplotssysgeneric.code.
-tex"))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\libs\pgfplotslibrary.code.te
-x")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpg
-fsupp_loader.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfpu.code.tex"
-)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric
+.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.c
+ode.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_loader.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex)
 Package pgfplots: loading complementary arithmetics for your pgf version...
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpg
-fsupp_pgflibraryfpu.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\oldpgfcompatib\pgfplotsoldpg
-fsupp_pgfmathfloat.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_pgflibraryfpu.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplot
+soldpgfsupp_pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count168
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsutil.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotslistst
-ructure.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotslistst
-ructureext.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsarray.
-code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code
+.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructure.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+liststructureext.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+array.code.tex
 \c@pgfplotsarray@tmp=\count169
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsmatrix
-.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\numtable\pgfplotstableshared
-.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+matrix.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+shared.code.tex
 \c@pgfplotstable@counta=\count170
 \t@pgfplotstable@a=\toks35
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\liststructure\pgfplotsdeque.
-code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsbinary.code.tex
-"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsbinary.data.cod
-e.tex"))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotsutil.verb.code.
-tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\libs\pgflibrarypgfplots.surf
-shading.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/liststructure/pgfplots
+deque.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.co
+de.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.da
+ta.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplot
+s.surfshading.code.tex
 \c@pgfplotslibrarysurf@no=\count171
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\sys\pgflibrarypgfplots.surfs
-hading.pgfsys-pdftex.def")))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotscolormap.code.t
-ex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\util\pgfplotscolor.code.tex"
-))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsstackedplots.code.te
-x")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsplothandlers.code.te
-x"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsmeshplothandler.code
-.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsmeshplotimage.code.t
-ex")))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.scaling.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplotscoordprocessing.code
-.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.errorbars.code.tex"
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.markers.code.tex"
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplotsticks.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.paths.code.tex")
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-librarydecorations.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduledecorations.code
-.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots
+.surfshading.pgfsys-pdftex.def)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.
+code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.cod
+e.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.c
+ode.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.c
+ode.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandle
+r.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.
+code.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.
+tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessin
+g.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.cod
+e.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.
+tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.te
+x)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduledecoration
+s.code.tex
 \pgfdecoratedcompleteddistance=\dimen260
 \pgfdecoratedremainingdistance=\dimen261
 \pgfdecoratedinputsegmentcompleteddistance=\dimen262
@@ -805,14 +816,14 @@ librarydecorations.code.tex"
 )
 \tikz@lib@dec@box=\box63
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-librarydecorations.pathmorphing.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibraryd
-ecorations.pathmorphing.code.tex"))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-librarydecorations.pathreplacing.code.tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\decorations\pgflibraryd
-ecorations.pathreplacing.code.tex"))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathmorphing.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathmorphing.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarydecorations.pathreplacing.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/decorations/pgfli
+brarydecorations.pathreplacing.code.tex))
 \pgfplots@numplots=\count173
 \pgfplots@xmin@reg=\dimen267
 \pgfplots@xmax@reg=\dimen268
@@ -821,23 +832,25 @@ ecorations.pathreplacing.code.tex"))
 \pgfplots@zmin@reg=\dimen271
 \pgfplots@zmax@reg=\dimen272
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikz
-libraryplotmarks.code.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2008/01/09 v3.0.1a (rcs-revision 1.1)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplotmarks.cod
-e.tex"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmar
+ks.code.tex
 File: pgflibraryplotmarks.code.tex 2015/08/03 v3.0.1a (rcs-revision 1.14)
-))) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgfplots\pgfplotstable.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\pgfplots.revision.tex")
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgfplots/pgfplotstable.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
 Package: pgfplotstable 2016/01/06 v1.13 Table typesetting and Pretty-printing (
 1.13)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\numtable\pgfplotstable.code.
-tex"
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\numtable\pgfplotstable.colty
-pe.code.tex"))) ("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
-Package: booktabs 2005/04/14 v1.61803 publication quality tables
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable
+.coltype.code.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen273
 \lightrulewidth=\dimen274
 \cmidrulewidth=\dimen275
@@ -855,7 +868,8 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@thisruleclass=\count176
 \@lastruleclass=\count177
 \@thisrulewidth=\dimen285
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count178
 \float@exts=\toks36
@@ -863,26 +877,26 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks37
 \@floatcapt=\box65
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks38
 \inpenc@posthook=\toks39
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -1119,7 +1133,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -1160,7 +1174,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -1184,9 +1198,9 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\pgfplots\libs\tikzlibrarypgfplots.uni
-ts.code.tex") (preamble.tex
-("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplo
+ts.units.code.tex) (./preamble.tex
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2015/03/04 v2.20.2
 \thm@style=\toks40
 \thm@bodyfont=\toks41
@@ -1198,28 +1212,28 @@ Package: amsthm 2015/03/04 v2.20.2
 \thm@headsep=\skip58
 \dth@everypar=\toks45
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen286
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\preprint\balance.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/preprint/balance.sty
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen287
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\rotating\rotating.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \c@r@tfl@t=\count179
 \rotFPtop=\skip59
@@ -1227,13 +1241,13 @@ Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 \rot@float@box=\box66
 \rot@mess@toks=\toks46
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
 \bigstrutjot=\dimen288
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\needspace\needspace.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
 \MT@toks=\toks47
 \MT@count=\count180
@@ -1242,7 +1256,7 @@ LaTeX Info: Redefining \textls on input line 774.
 LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
 \MT@listname@count=\count181
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
 
 LaTeX Info: Redefining \lsstyle on input line 916.
@@ -1251,23 +1265,23 @@ LaTeX Info: Redefining \lslig on input line 916.
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\bold-extra\bold-extra.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/bold-extra/bold-extra.sty
 Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count182
@@ -1282,13 +1296,12 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen296
 \Gm@layoutvoffset=\dimen297
 \Gm@dimlist=\toks48
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\varioref.sty"
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/varioref.sty
 Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
 \c@vrcnt=\count185
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -1303,12 +1316,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1enc.dfu
 File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -1444,7 +1457,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box67
 \UL@hyphenbox=\box68
 \UL@skip=\skip62
@@ -1456,10 +1469,10 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 Package: ulem 2012/05/18
 \ULdepth=\dimen300
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/ucs.sty
 Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/data/uni-global.def
 File: uni-global.def 2013/05/13 UCS: Unicode global data
 )
 \uc@secondtry=\count187
@@ -1467,22 +1480,22 @@ File: uni-global.def 2013/05/13 UCS: Unicode global data
 \uc@combtoksb=\toks51
 \uc@temptokena=\toks52
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\alltt.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/alltt.sty
 Package: alltt 1997/06/16 v2.0g defines alltt environment
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip63
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count188
@@ -1523,8 +1536,9 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xfrac\xfrac.sty"
-("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xtemplate\xtemplate.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
+y
 Package: xtemplate 2016/05/18 v6512 L3 Experimental prototype document function
 s
 \l__xtemplate_tmp_dim=\dimen308
@@ -1552,9 +1566,8 @@ Package: xfrac 2016/05/18 v6512 L3 Experimental split-level fractions
 . 
 . Defining command \sfrac with sig. 'omom' on line 451.
 .................................................
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
-Package: subfigure 2002/07/30 v2.1.4 subfigure package
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip67
 \subfigcapskip=\skip68
 \subfigcaptopadj=\dimen314
@@ -1569,54 +1582,54 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-("C:\Program Files\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip71
 \subfig@bottom=\skip72
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/appendix/appendix.sty
 Package: appendix 2009/09/02 v1.2b extra appendix facilities
 \c@@pps=\count271
 \c@@ppsavesec=\count272
 \c@@ppsaveapp=\count273
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\stmaryrd\stmaryrd.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
 Package: stmaryrd 1994/03/03 St Mary's Road symbol package
 \symstmry=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
 (Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\quotchap\quotchap.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/quotchap/quotchap.sty
 Package: quotchap 2012/10/20 v1.1 Decorative Chapter Headings with Quotes
 \@quotebox=\box74
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip73
 \bibsep=\skip74
 LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count274
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\mdwtools\mdwlist.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/mdwtools/mdwlist.sty
 Package: mdwlist 1996/05/02 1.1 Various list-related things
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\changepage\chngpage.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/changepage/chngpage.sty
 Package: chngpage 2009/10/20 v1.2b change page layout
 \c@cp@cnt=\count275
 \c@cp@tempcnt=\count276
 )
 \c@qcounter=\count277
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2016/05/21 v6.83p Hypertext links for LaTeX
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -1633,7 +1646,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -1655,54 +1668,54 @@ Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen316
 \Hy@linkcounter=\count278
 \Hy@pagecounter=\count279
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2016/05/21 v6.83p Hyperref: PDFDocEncoding definition (HO)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count280
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4362.
-Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4362
+Package hyperref Info: Option `colorlinks' set `true' on input line 4322.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4322
 .
-Package hyperref Info: Option `bookmarks' set `true' on input line 4362.
-Package hyperref Info: Option `plainpages' set `false' on input line 4362.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4362.
-Package hyperref Info: Hyper figures OFF on input line 4486.
-Package hyperref Info: Link nesting OFF on input line 4491.
-Package hyperref Info: Hyper index ON on input line 4494.
-Package hyperref Info: Plain pages OFF on input line 4501.
-Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4322.
+Package hyperref Info: Option `plainpages' set `false' on input line 4322.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4322.
+Package hyperref Info: Hyper figures OFF on input line 4446.
+Package hyperref Info: Link nesting OFF on input line 4451.
+Package hyperref Info: Hyper index ON on input line 4454.
+Package hyperref Info: Plain pages OFF on input line 4461.
+Package hyperref Info: Backreferencing OFF on input line 4466.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4735.
+Package hyperref Info: Bookmarks ON on input line 4691.
 \c@Hy@tempcnt=\count281
-LaTeX Info: Redefining \url on input line 5088.
+LaTeX Info: Redefining \url on input line 5044.
 \XeTeXLinkMargin=\dimen317
 \Fld@menulength=\count282
 \Field@Width=\dimen318
 \Fld@charsize=\dimen319
-Package hyperref Info: Hyper figures OFF on input line 6342.
-Package hyperref Info: Link nesting OFF on input line 6347.
-Package hyperref Info: Hyper index ON on input line 6350.
-Package hyperref Info: backreferencing OFF on input line 6357.
-Package hyperref Info: Link coloring ON on input line 6360.
-Package hyperref Info: Link coloring with OCG OFF on input line 6367.
-Package hyperref Info: PDF/A mode OFF on input line 6372.
-LaTeX Info: Redefining \ref on input line 6412.
-LaTeX Info: Redefining \pageref on input line 6416.
+Package hyperref Info: Hyper figures OFF on input line 6298.
+Package hyperref Info: Link nesting OFF on input line 6303.
+Package hyperref Info: Hyper index ON on input line 6306.
+Package hyperref Info: backreferencing OFF on input line 6313.
+Package hyperref Info: Link coloring ON on input line 6316.
+Package hyperref Info: Link coloring with OCG OFF on input line 6323.
+Package hyperref Info: PDF/A mode OFF on input line 6328.
+LaTeX Info: Redefining \ref on input line 6368.
+LaTeX Info: Redefining \pageref on input line 6372.
 \Hy@abspage=\count283
 \c@Item=\count284
 \c@Hfootnote=\count285
@@ -1710,19 +1723,19 @@ LaTeX Info: Redefining \pageref on input line 6416.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2016/05/21 v6.83p Hyperref driver for pdfTeX
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
 \Fld@listcount=\count286
 \c@bookmark@seq@number=\count287
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip75
 )
-(thesis.aux
+(./thesis.aux
 
 LaTeX Warning: Label `a_label' multiply defined.
 
@@ -1786,7 +1799,7 @@ LaTeX Font Info:    ... okay on input line 241.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 241.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 241.
 
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 241.
@@ -1794,12 +1807,12 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 241.
 LaTeX Font Info:    ... okay on input line 241.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 241.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 \c@lstlisting=\count288
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count289
 \scratchdimen=\dimen320
@@ -1812,24 +1825,27 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 \MPnumerator=\count293
 \makeMPintoPDFobject=\count294
 \everyMPtoPDFconversion=\toks58
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\dicts\translator
--basic-dictionary\translator-basic-dictionary-English.dict"
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translato
+r-basic-dictionary/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
-)
-ABD: EveryShipout initializing macros
+) ABD: EveryShipout initializing macros
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.13}).
 
@@ -1843,7 +1859,7 @@ Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 *geometry* driver: auto-detecting
@@ -1880,56 +1896,56 @@ File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ucs/ucsencs.def
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 \AtBeginShipoutBox=\box76
 Package hyperref Info: Link coloring ON on input line 241.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count295
-LaTeX Info: Redefining \Ref on input line 515.
+LaTeX Info: Redefining \Ref on input line 513.
 )
 LaTeX Info: Redefining \ref on input line 241.
 LaTeX Info: Redefining \pageref on input line 241.
 LaTeX Info: Redefining \nameref on input line 241.
 
-(thesis.out) (thesis.out)
+(./thesis.out) (./thesis.out)
 \@outlinefile=\write5
 \openout5 = `thesis.out'.
 
 LaTeX Info: Redefining \Ref on input line 241.
 \c__siunitx_mathsf_int=\count296
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-cmr.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 241.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 241.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Try loading font information for U+stmry on input line 241.
 
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd")
+(/usr/local/texlive/2016/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 Package microtype Info: Loading generic settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1940,7 +1956,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-<images/logos/UNI_Bern.png, id=210, 258.2448pt x 199.4652pt>
+<images/logos/UNI_Bern.png, id=212, 258.2448pt x 199.4652pt>
 File: images/logos/UNI_Bern.png Graphic file (type png)
 
 <use images/logos/UNI_Bern.png>
@@ -1958,11 +1974,11 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/logos/UNI_Bern.p
-ng (PNG copy)>])
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+s/logos/UNI_Bern.png (PNG copy)>])
 LaTeX Font Info:    Try loading font information for T1+put on input line 41.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1put.fd"
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1put.fd
 File: t1put.fd 2001/06/04 font definitions for T1/put.
 )
 Package microtype Info: Loading generic settings for font family
@@ -1971,6 +1987,33 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             See the microtype manual for details.
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
 0.6,0.6}' on input line 41.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 44.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 44.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `phv' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <8> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 44.
+Package xcolor Info: Setting color `{}{1 g 1 G}{gray}{1}' on input line 44.
+Package xcolor Info: Setting color `{}{0.5 0 0.5 rg 0.5 0 0.5 RG}{rgb}{0.5,0,0.
+5}' on input line 44.
+Package xcolor Info: Setting color `{}{0.5 0 0.5 rg 0.5 0 0.5 RG}{rgb}{0.5,0,0.
+5}' on input line 44.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 44.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 50.
+Package xcolor Info: Setting color `{}{1 g 1 G}{gray}{1}' on input line 50.
+Package xcolor Info: Setting color `{}{0.5 0 0.5 rg 0.5 0 0.5 RG}{rgb}{0.5,0,0.
+5}' on input line 50.
+Package xcolor Info: Setting color `{}{0.5 0 0.5 rg 0.5 0 0.5 RG}{rgb}{0.5,0,0.
+5}' on input line 50.
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1981,7 +2024,7 @@ l.53 \clearpage
 ]
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
 0.6,0.6}' on input line 59.
- (thesis.toc
+ (./thesis.toc
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 2.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 3.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 4.
@@ -2054,98 +2097,81 @@ Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 68.
 
 ]
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 85.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 91.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 91.
  [2]
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 93.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 95.
- [3]
+Package xcolor Info: Setting color `{}{1 g 1 G}{gray}{1}' on input line 96.
+Package xcolor Info: Setting color `{}{0.5 0 0.5 rg 0.5 0 0.5 RG}{rgb}{0.5,0,0.
+5}' on input line 96.
+Package xcolor Info: Setting color `{}{0.5 0 0.5 rg 0.5 0 0.5 RG}{rgb}{0.5,0,0.
+5}' on input line 96.
+
+[3]
 Chapter 2.
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 108.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 123.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
+0.6,0.6}' on input line 109.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 124.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
 Package microtype Info: Loading generic settings for font family
 (microtype)             `pcr' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 123.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 124.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-23.
+24.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-23.
+24.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-23.
+24.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-23.
+24.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-23.
+24.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-23.
+24.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-23.
+24.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 124.
+ input line 125.
  [4
 
 ]
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 125.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
  line 126.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-27.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-27.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 140.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-40.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 141.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 141.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 141.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 141.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 141.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 141.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 141.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 141.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 141.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 141.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 141.
+ line 127.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+28.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+28.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 141.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+41.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 142.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 142.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 142.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 142.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 142.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
@@ -2168,60 +2194,64 @@ Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 143.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 143.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 143.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 143.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 143.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 143.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 143.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 143.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
  line 143.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 143.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 143.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 144.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 144.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 144.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 144.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 144.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 144.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-45.
+46.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-45.
+46.
  [5]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 165.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 167.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 166.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 168.
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--168
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
 
  []
 
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 170.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 171.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-70.
+71.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-70.
+71.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-70.
+71.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-70.
+71.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-70.
+71.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-70.
+71.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-70.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 171.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 171.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 171.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 171.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 171.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 171.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 171.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 171.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 171.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 171.
+71.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 172.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2248,47 +2278,49 @@ Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 173.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 173.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 173.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 173.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-74.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-74.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 177.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-77.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 178.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 178.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 178.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 178.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 178.
+ line 173.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 178.
+ line 173.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 173.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 178.
+ input line 173.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 178.
+ line 173.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 178.
+ line 173.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 174.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 174.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 174.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 174.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 174.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+75.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+75.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 178.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
+78.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 179.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2315,53 +2347,51 @@ Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 180.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 180.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 180.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 180.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 180.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 180.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 180.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 181.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 181.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 181.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 181.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-81.
+82.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-81.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 185.
+82.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 186.
 [6]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 195.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 196.
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--197
+Underfull \hbox (badness 10000) in paragraph at lines 195--198
 
  []
 
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 197.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 198.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-97.
+98.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-97.
+98.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-97.
+98.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-97.
+98.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-97.
+98.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-97.
+98.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 1
-97.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 198.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 198.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 198.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 198.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 198.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 198.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 198.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 198.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 198.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 198.
+98.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 199.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2388,59 +2418,55 @@ Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 200.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 200.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 200.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 200.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-01.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-01.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 204.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-04.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-04.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-04.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-04.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-04.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-04.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-04.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 205.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 205.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 205.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 205.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 205.
+ line 200.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 205.
+ line 200.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 205.
+ line 200.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 205.
+ input line 200.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 205.
+ line 200.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 205.
+ line 200.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 201.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 205.
+ line 201.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 201.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 201.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 201.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+02.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+02.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 205.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+05.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+05.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+05.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+05.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+05.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+05.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+05.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 206.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 206.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 206.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 206.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 206.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
@@ -2463,49 +2489,55 @@ Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 207.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 207.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 207.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 207.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 207.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 207.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 207.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 207.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
  line 207.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 207.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-08.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-08.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 214.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-14.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-14.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-14.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-14.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-14.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-14.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-14.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 207.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 215.
+ input line 208.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 215.
+ line 208.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 215.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 215.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 215.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 215.
+ input line 208.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 215.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 215.
+ input line 208.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 215.
+ line 208.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 208.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+09.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+09.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 215.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+15.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+15.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+15.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+15.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+15.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+15.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+15.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 216.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2532,44 +2564,44 @@ Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 217.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 217.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-18.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-18.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 218.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 222.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-22.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-22.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-22.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-22.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-22.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-22.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-22.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 223.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 223.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 223.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 223.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 223.
+ line 217.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 223.
+ line 217.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 223.
+ input line 217.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 223.
+ line 217.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 223.
+ line 217.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 218.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 218.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 218.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 218.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+19.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+19.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 219.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 223.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+23.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+23.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+23.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+23.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+23.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+23.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+23.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 224.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2596,49 +2628,49 @@ Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 225.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 225.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 225.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 225.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 225.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 225.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 225.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 226.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 226.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 226.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 226.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-26.
+27.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-26.
+27.
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--230
+Underfull \hbox (badness 10000) in paragraph at lines 229--231
 
  []
 
 [7]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 232.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 233.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-32.
+33.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-32.
+33.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-32.
+33.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-32.
+33.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-32.
+33.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-32.
+33.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-32.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 233.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 233.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 233.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 233.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 233.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 233.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 233.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 233.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 233.
+33.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 234.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2665,44 +2697,44 @@ Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 235.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 235.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-36.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-36.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 236.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 240.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-40.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-40.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 241.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 241.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 241.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 241.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 241.
+ line 235.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 241.
+ line 235.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 241.
+ input line 235.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 241.
+ line 235.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 241.
+ line 235.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 236.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 236.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 236.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 236.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+37.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+37.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 237.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 241.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+41.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+41.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 242.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2729,43 +2761,43 @@ Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 243.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 243.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-44.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-44.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 250.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-50.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-50.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-50.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-50.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-50.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-50.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-50.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 251.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 251.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 251.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 251.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 251.
+ line 243.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 251.
+ line 243.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 251.
+ input line 243.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 251.
+ line 243.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 251.
+ line 243.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 244.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 244.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 244.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 244.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+45.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+45.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 251.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+51.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+51.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+51.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+51.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+51.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+51.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+51.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 252.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2792,44 +2824,44 @@ Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 253.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 253.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-54.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-54.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 254.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 258.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-58.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-58.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-58.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-58.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-58.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-58.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-58.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 259.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 259.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 259.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 259.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 259.
+ line 253.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 259.
+ line 253.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 259.
+ input line 253.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 259.
+ line 253.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 259.
+ line 253.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 254.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 254.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 254.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 254.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+55.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+55.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 255.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 259.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+59.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+59.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+59.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+59.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+59.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+59.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+59.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 260.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2856,45 +2888,45 @@ Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 261.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 261.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 261.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 261.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 261.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 261.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 261.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 262.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 262.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 262.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 262.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-62.
+63.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-62.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 265.
+63.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 266.
  [8]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 267.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 268.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-67.
+68.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-67.
+68.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-67.
+68.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-67.
+68.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-67.
+68.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-67.
+68.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-67.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 268.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 268.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 268.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 268.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 268.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 268.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 268.
-Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 268.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 268.
+68.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 269.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
@@ -2921,58 +2953,52 @@ Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 270.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 270.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-71.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-71.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 275.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 275.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 277.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-77.
-Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-77.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 278.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 278.
-Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 278.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 278.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 278.
+ line 270.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 278.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 278.
+ line 270.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
- input line 278.
+ input line 270.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
- line 278.
+ line 270.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 278.
+ line 270.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 271.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 278.
+ line 271.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 271.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 271.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+72.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+72.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 276.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 276.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 278.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+78.
+Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
+78.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 279.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 279.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 279.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 279.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 279.
 Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
@@ -2995,38 +3021,63 @@ Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 280.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 280.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 280.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 280.
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
+ line 280.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 280.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 280.
 Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
  input line 280.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+Package xcolor Info: Setting color `{}{1 0 0 rg 1 0 0 RG}{rgb}{1,0,0}' on input
  line 280.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
  line 280.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 280.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 281.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 281.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 281.
+Package xcolor Info: Setting color `{}{1 0.5 0 rg 1 0.5 0 RG}{rgb}{1,0.5,0}' on
+ input line 281.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 281.
+Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
+ line 281.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-81.
+82.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
-81.
- <images/kmeansformula.png, id=397, 1102.1175pt x 560.0925pt>
+82.
+ <images/kmeansformula.png, id=406, 1102.1175pt x 560.0925pt>
 File: images/kmeansformula.png Graphic file (type png)
 
 <use images/kmeansformula.png>
-Package pdftex.def Info: images/kmeansformula.png used on input line 287.
+Package pdftex.def Info: images/kmeansformula.png used on input line 288.
 (pdftex.def)             Requested size: 334.60422pt x 170.04597pt.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 288.
- [9] [10 <./images/kmeansformula.png>]
-<images/kmeansexample.png, id=420, 630.85687pt x 210.03468pt>
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 289.
+ [9]
+<images/kmeansexample.png, id=424, 630.85687pt x 210.03468pt>
 File: images/kmeansexample.png Graphic file (type png)
 
 <use images/kmeansexample.png>
-Package pdftex.def Info: images/kmeansexample.png used on input line 294.
+Package pdftex.def Info: images/kmeansexample.png used on input line 295.
 (pdftex.def)             Requested size: 418.25368pt x 139.25146pt.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 295.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 296.
 
-Underfull \hbox (badness 10000) in paragraph at lines 291--296
+Underfull \hbox (badness 10000) in paragraph at lines 292--297
 
  []
 
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 305.
-Package xcolor Info: Defining color `pgfstrokecolor' on input line 310.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 306.
+[10 <./images/kmeansformula.png> <./images/kmeansexample.png>]
+Package xcolor Info: Defining color `pgfstrokecolor' on input line 311.
 PGFPlots: reading {jbyk.csv}
 Missing character: There is no x in font nullfont!
 Missing character: There is no m in font nullfont!
@@ -3043,395 +3094,394 @@ Missing character: There is no = in font nullfont!
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no , in font nullfont!
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
 Package xcolor Info: Setting color `{}{0.75 g 0.75 G}{gray}{0.75}' on input lin
-e 328.
-Package xcolor Info: Defining color `pgffillcolor' on input line 328.
+e 329.
+Package xcolor Info: Defining color `pgffillcolor' on input line 329.
 Package xcolor Info: Setting color `{}{0.85 g 0.85 G}{gray}{0.85}' on input lin
-e 328.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 328.
+e 329.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 329.
 Package xcolor Info: Setting color `{}{0.75 g 0.75 G}{gray}{0.75}' on input lin
-e 328.
-Package xcolor Info: Defining color `pgffillcolor' on input line 328.
+e 329.
+Package xcolor Info: Defining color `pgffillcolor' on input line 329.
 Package xcolor Info: Setting color `{}{0.85 g 0.85 G}{gray}{0.85}' on input lin
-e 328.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 328.
+e 329.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 329.
 Package xcolor Info: Setting color `{}{0.5 g 0.5 G}{gray}{0.5}' on input line 3
-28.
-Package xcolor Info: Defining color `pgffillcolor' on input line 328.
+29.
+Package xcolor Info: Defining color `pgffillcolor' on input line 329.
 Package xcolor Info: Setting color `{}{0.5 g 0.5 G}{gray}{0.5}' on input line 3
-28.
-Package xcolor Info: Defining color `pgffillcolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
+29.
+Package xcolor Info: Defining color `pgffillcolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 328.
-Package xcolor Info: Defining color `pgffillcolor' on input line 328.
+ line 329.
+Package xcolor Info: Defining color `pgffillcolor' on input line 329.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 328.
-Package xcolor Info: Defining color `pgffillcolor' on input line 328.
+ line 329.
+Package xcolor Info: Defining color `pgffillcolor' on input line 329.
 Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 328.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 328.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 328.
+ line 329.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 329.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 329.
 
-Overfull \hbox (14.78348pt too wide) in paragraph at lines 329--330
+Overfull \hbox (14.78348pt too wide) in paragraph at lines 330--331
  [] 
  []
 
+[11]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 338.
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--332
-
- []
-
-[11 <./images/kmeansexample.png>] [12]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 337.
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
 
  []
 
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 343.
-<images/circles.pdf, id=441, 368.37625pt x 278.03876pt>
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 344.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 345.
+
+<images/circles.pdf, id=445, 368.37625pt x 278.03876pt>
 File: images/circles.pdf Graphic file (type pdf)
 
 <use images/circles.pdf>
-Package pdftex.def Info: images/circles.pdf used on input line 346.
-(pdftex.def)             Requested size: 334.60422pt x 252.54474pt.
- [13 <./images/circles.pdf>] [14]
+Package pdftex.def Info: images/circles.pdf used on input line 347.
+(pdftex.def)             Requested size: 292.77629pt x 220.9761pt.
+ [12] [13 <./images/circles.pdf>]
 Chapter 3.
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 352.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 355.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 355.
-<images/kmeans.pdf, id=496, 794.97pt x 259.97125pt>
+0.6,0.6}' on input line 354.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 357.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 357.
+<images/kmeans.pdf, id=502, 794.97pt x 259.97125pt>
 File: images/kmeans.pdf Graphic file (type pdf)
  <use images/kmeans.pdf>
-Package pdftex.def Info: images/kmeans.pdf used on input line 364.
+Package pdftex.def Info: images/kmeans.pdf used on input line 366.
 (pdftex.def)             Requested size: 418.25368pt x 136.78049pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 358--367
+Underfull \hbox (badness 10000) in paragraph at lines 360--369
 
  []
 
-[15
+[14
 
 ]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 371.
- <images/bestkmeans.pdf, id=505, 765.86125pt x 303.1325pt>
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 373.
+ <images/bestkmeans.pdf, id=510, 765.86125pt x 303.1325pt>
 File: images/bestkmeans.pdf Graphic file (type pdf)
 
 <use images/bestkmeans.pdf>
-Package pdftex.def Info: images/bestkmeans.pdf used on input line 374.
+Package pdftex.def Info: images/bestkmeans.pdf used on input line 376.
 (pdftex.def)             Requested size: 418.25368pt x 165.54852pt.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 375.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 375.
- [16 <./images/kmeans.pdf>]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 385.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 377.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 377.
+ [15 <./images/kmeans.pdf>]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 387.
 
-<images/langdiffpipeline.pdf, id=517, 473.77pt x 654.445pt>
+<images/langdiffpipeline.pdf, id=523, 473.77pt x 654.445pt>
 File: images/langdiffpipeline.pdf Graphic file (type pdf)
 
 <use images/langdiffpipeline.pdf>
-Package pdftex.def Info: images/langdiffpipeline.pdf used on input line 388.
+Package pdftex.def Info: images/langdiffpipeline.pdf used on input line 390.
 (pdftex.def)             Requested size: 418.25368pt x 577.77078pt.
- [17 <./images/bestkmeans.pdf>]
+ [16 <./images/bestkmeans.pdf>]
 Overfull \vbox (13.33849pt too high) has occurred while \output is active []
 
 
-[18 <./images/langdiffpipeline.pdf>] [19]
+[17 <./images/langdiffpipeline.pdf>] [18]
 Chapter 4.
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 400.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 401.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 404.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 409.
-[20
+0.6,0.6}' on input line 402.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 403.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 407.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 412.
+[19
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
+Underfull \hbox (badness 10000) in paragraph at lines 417--418
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 423--424
+Underfull \hbox (badness 10000) in paragraph at lines 426--427
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
+Underfull \hbox (badness 10000) in paragraph at lines 431--432
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--437
+Underfull \hbox (badness 10000) in paragraph at lines 437--440
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 434--437
+Underfull \hbox (badness 10000) in paragraph at lines 437--440
 
  []
 
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 441.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 444.
-[21]
-Package xcolor Info: Defining color `pgfstrokecolor' on input line 449.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 447.
+[20]
+Package xcolor Info: Defining color `pgfstrokecolor' on input line 452.
 PGFPlots: reading {kalpha.csv}
 PGFPlots: reading {kalpha.csv}
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
 Package xcolor Info: Setting color `{}{0.75 g 0.75 G}{gray}{0.75}' on input lin
-e 470.
-Package xcolor Info: Defining color `pgffillcolor' on input line 470.
+e 473.
+Package xcolor Info: Defining color `pgffillcolor' on input line 473.
 Package xcolor Info: Setting color `{}{0.85 g 0.85 G}{gray}{0.85}' on input lin
-e 470.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 470.
+e 473.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 473.
 Package xcolor Info: Setting color `{}{0.75 g 0.75 G}{gray}{0.75}' on input lin
-e 470.
-Package xcolor Info: Defining color `pgffillcolor' on input line 470.
+e 473.
+Package xcolor Info: Defining color `pgffillcolor' on input line 473.
 Package xcolor Info: Setting color `{}{0.85 g 0.85 G}{gray}{0.85}' on input lin
-e 470.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 470.
+e 473.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 473.
 Package xcolor Info: Setting color `{}{0.5 g 0.5 G}{gray}{0.5}' on input line 4
-70.
-Package xcolor Info: Defining color `pgffillcolor' on input line 470.
+73.
+Package xcolor Info: Defining color `pgffillcolor' on input line 473.
 Package xcolor Info: Setting color `{}{0.5 g 0.5 G}{gray}{0.5}' on input line 4
-70.
-Package xcolor Info: Defining color `pgffillcolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Defining color `tikz@color' on input line 470.
-Package xcolor Info: Redefining color `.' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Defining color `tikz@color' on input line 470.
-Package xcolor Info: Redefining color `.' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Defining color `tikz@color' on input line 470.
-Package xcolor Info: Redefining color `.' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `tikz@color' on input line 470.
-Package xcolor Info: Redefining color `.' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Defining color `tikz@color' on input line 470.
-Package xcolor Info: Redefining color `.' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `tikz@color' on input line 470.
-Package xcolor Info: Redefining color `.' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Defining color `pgffillcolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 470.
-Package xcolor Info: Defining color `tikz@color' on input line 470.
-Package xcolor Info: Redefining color `.' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 470.
-Package xcolor Info: Defining color `tikz@color' on input line 470.
-Package xcolor Info: Redefining color `.' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 470.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 470.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 475.
- [22]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 483.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 483.
+73.
+Package xcolor Info: Defining color `pgffillcolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Defining color `tikz@color' on input line 473.
+Package xcolor Info: Redefining color `.' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Defining color `tikz@color' on input line 473.
+Package xcolor Info: Redefining color `.' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Defining color `tikz@color' on input line 473.
+Package xcolor Info: Redefining color `.' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `tikz@color' on input line 473.
+Package xcolor Info: Redefining color `.' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Defining color `tikz@color' on input line 473.
+Package xcolor Info: Redefining color `.' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `tikz@color' on input line 473.
+Package xcolor Info: Redefining color `.' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Defining color `pgffillcolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 473.
+Package xcolor Info: Defining color `tikz@color' on input line 473.
+Package xcolor Info: Redefining color `.' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 473.
+Package xcolor Info: Defining color `tikz@color' on input line 473.
+Package xcolor Info: Redefining color `.' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 473.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 473.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 478.
+ [21]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 486.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 486.
 PGFPlots: reading {results.csv}
 
-Overfull \hbox (58.73003pt too wide) in paragraph at lines 514--515
+Overfull \hbox (58.73003pt too wide) in paragraph at lines 517--518
  [] 
  []
 
-[23]
+[22]
 PGFPlots: reading {specificres.csv}
 
-Overfull \hbox (58.73003pt too wide) in paragraph at lines 547--548
+Overfull \hbox (58.73003pt too wide) in paragraph at lines 550--551
  [] 
  []
 
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 550.
-[24]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 562.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 562.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 562.
- [25]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 571.
-Package xcolor Info: Defining color `bblue' on input line 573.
-Package xcolor Info: Defining color `rred' on input line 574.
-Package xcolor Info: Defining color `pgfstrokecolor' on input line 576.
-Package pgfplots info on input line 589: Using 'lua backend=false' for axis: x 
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 553.
+[23]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 565.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 565.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 565.
+ [24]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 574.
+Package xcolor Info: Defining color `bblue' on input line 576.
+Package xcolor Info: Defining color `rred' on input line 577.
+Package xcolor Info: Defining color `pgfstrokecolor' on input line 579.
+Package pgfplots info on input line 592: Using 'lua backend=false' for axis: x 
 coord trafo unsupported.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
 Package xcolor Info: Setting color `{}{0.75 g 0.75 G}{gray}{0.75}' on input lin
-e 597.
-Package xcolor Info: Defining color `pgffillcolor' on input line 597.
-Package xcolor Info: Setting color `{}{0.5 g 0.5 G}{gray}{0.5}' on input line 5
-97.
-Package xcolor Info: Defining color `pgffillcolor' on input line 597.
-Package xcolor Info: Setting color `{}{0.5 g 0.5 G}{gray}{0.5}' on input line 5
-97.
-Package xcolor Info: Defining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
+e 600.
+Package xcolor Info: Defining color `pgffillcolor' on input line 600.
+Package xcolor Info: Setting color `{}{0.5 g 0.5 G}{gray}{0.5}' on input line 6
+00.
+Package xcolor Info: Defining color `pgffillcolor' on input line 600.
+Package xcolor Info: Setting color `{}{0.5 g 0.5 G}{gray}{0.5}' on input line 6
+00.
+Package xcolor Info: Defining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
 Package xcolor Info: Setting color `{}{0.3098 0.50587 0.74118 rg 0.3098 0.50587
- 0.74118 RG}{rgb}{0.3098,0.50587,0.74118}' on input line 597.
-Package xcolor Info: Defining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 597.
+ 0.74118 RG}{rgb}{0.3098,0.50587,0.74118}' on input line 600.
+Package xcolor Info: Defining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 600.
 Package xcolor Info: Setting color `{}{0.75294 0.31374 0.30196 rg 0.75294 0.313
-74 0.30196 RG}{rgb}{0.75294,0.31374,0.30196}' on input line 597.
-Package xcolor Info: Defining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Defining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 597.
+74 0.30196 RG}{rgb}{0.75294,0.31374,0.30196}' on input line 600.
+Package xcolor Info: Defining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Defining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 600.
 Package xcolor Info: Setting color `{}{0.3098 0.50587 0.74118 rg 0.3098 0.50587
- 0.74118 RG}{rgb}{0.3098,0.50587,0.74118}' on input line 597.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 597.
+ 0.74118 RG}{rgb}{0.3098,0.50587,0.74118}' on input line 600.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 600.
 Package xcolor Info: Setting color `{}{0.75294 0.31374 0.30196 rg 0.75294 0.313
-74 0.30196 RG}{rgb}{0.75294,0.31374,0.30196}' on input line 597.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
-Package xcolor Info: Redefining color `pgffillcolor' on input line 597.
-Package xcolor Info: Redefining color `pgfstrokecolor' on input line 597.
- [26]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 603.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 603.
+74 0.30196 RG}{rgb}{0.75294,0.31374,0.30196}' on input line 600.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+Package xcolor Info: Redefining color `pgffillcolor' on input line 600.
+Package xcolor Info: Redefining color `pgfstrokecolor' on input line 600.
+ [25]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 606.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 606.
 PGFPlots: reading {vmeasures/vmeasurescsharp.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 634--635
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 637--638
+ [] 
+ []
+
+[26]
+PGFPlots: reading {vmeasures/vmeasurescpp.csv}
+
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 673--674
  [] 
  []
 
 [27]
-PGFPlots: reading {vmeasures/vmeasurescpp.csv}
-
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 670--671
- [] 
- []
-
-[28]
-Underfull \hbox (badness 10000) in paragraph at lines 673--675
+Underfull \hbox (badness 10000) in paragraph at lines 676--678
 
  []
 
 PGFPlots: reading {vmeasures/vmeasuresphyton.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 705--706
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 708--709
  [] 
  []
 
-[29]
+[28]
 PGFPlots: reading {vmeasures/vmeasuresxml.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 740--741
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 743--744
  [] 
  []
 
 PGFPlots: reading {vmeasures/vmeasureslog.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 777--778
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 780--781
+ [] 
+ []
+
+[29]
+PGFPlots: reading {vmeasures/vmeasuresbrainfuck.csv}
+
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 816--817
  [] 
  []
 
 [30]
-PGFPlots: reading {vmeasures/vmeasuresbrainfuck.csv}
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 825.
+ [31]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 834.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 834.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 834.
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 813--814
- [] 
- []
-
-[31]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 822.
- [32]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 831.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 831.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 831.
-
-<images/TypeStructureStatemetns.png, id=823, 685.05937pt x 405.01312pt>
+<images/TypeStructureStatemetns.png, id=831, 685.05937pt x 405.01312pt>
 File: images/TypeStructureStatemetns.png Graphic file (type png)
 
 <use images/TypeStructureStatemetns.png>
 Package pdftex.def Info: images/TypeStructureStatemetns.png used on input line 
-834.
+837.
 (pdftex.def)             Requested size: 418.25368pt x 247.2801pt.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 838.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 838.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 840.
- [33 <./images/TypeStructureStatemetns.png>] <images/TypeSpecificStatemetns.png
-, id=833, 1045.65656pt x 499.8675pt>
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 841.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 841.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 842.
+ [32 <./images/TypeStructureStatemetns.png>] <images/TypeSpecificStatemetns.png
+, id=840, 1045.65656pt x 499.8675pt>
 File: images/TypeSpecificStatemetns.png Graphic file (type png)
 
 <use images/TypeSpecificStatemetns.png>
 Package pdftex.def Info: images/TypeSpecificStatemetns.png used on input line 8
-44.
+46.
 (pdftex.def)             Requested size: 418.25368pt x 199.94345pt.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 849.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 849.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 851.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 851.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 854.
- [34 <./images/TypeSpecificStatemetns.png>]
+ [33 <./images/TypeSpecificStatemetns.png>]
 PGFPlots: reading {langdiff.csv}
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 894.
 
@@ -3439,7 +3489,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 892--896
 
  []
 
-[35] <images/circlesoverlap.pdf, id=848, 243.91125pt x 204.765pt>
+[34] <images/circlesoverlap.pdf, id=856, 243.91125pt x 204.765pt>
 File: images/circlesoverlap.pdf Graphic file (type pdf)
 
 <use images/circlesoverlap.pdf>
@@ -3450,16 +3500,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 897--904
 
  []
 
-[36 <./images/circlesoverlap.pdf>] [37]
+[35 <./images/circlesoverlap.pdf>] [36]
 Chapter 5.
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
 0.6,0.6}' on input line 907.
-[38
+[37
 
-] [39]
+] [38]
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 937.
- (thesis.lot
+0.6,0.6}' on input line 935.
+ (./thesis.lot
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 6.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 7.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 8.
@@ -3473,12 +3523,12 @@ Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 14.
 \tf@lot=\write7
 \openout7 = `thesis.lot'.
 
- [40
+ [39
 
 ]
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 938.
- (thesis.lol
+0.6,0.6}' on input line 936.
+ (./thesis.lol
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 2.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 3.
@@ -3500,12 +3550,12 @@ Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 14.
 \tf@lol=\write8
 \openout8 = `thesis.lol'.
 
- [41
+ [40
 
 ]
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 939.
- (thesis.lof
+0.6,0.6}' on input line 937.
+ (./thesis.lof
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 4.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 4.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 5.
@@ -3534,7 +3584,8 @@ Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 28.
 \tf@lof=\write9
 \openout9 = `thesis.lof'.
 
- (thesis.bbl [42
+ (./thesis.bbl
+[41
 
 ]
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
@@ -3548,199 +3599,207 @@ Underfull \hbox (badness 1789) in paragraph at lines 57--61
 ch.  [][]$\T1/pcr/m/n/12 http : / /
  []
 
-[43
+[42
 
-]) [44]
+]) [43]
 Chapter 6.
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 942.
-[45
+0.6,0.6}' on input line 940.
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 954--959
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 954--959
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 954--959
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 954--959
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
 
  []
 
-<images/folderStrFinder.png, id=1038, 223.58531pt x 148.30406pt>
+[44
+
+] <images/folderStrFinder.png, id=1047, 223.58531pt x 148.30406pt>
 File: images/folderStrFinder.png Graphic file (type png)
 
 <use images/folderStrFinder.png>
-Package pdftex.def Info: images/folderStrFinder.png used on input line 967.
+Package pdftex.def Info: images/folderStrFinder.png used on input line 965.
 (pdftex.def)             Requested size: 334.60422pt x 221.96446pt.
- [46]
-<images/strFinderPlayground.png, id=1043, 574.39594pt x 299.61937pt>
+
+<images/strFinderPlayground.png, id=1048, 574.39594pt x 299.61937pt>
 File: images/strFinderPlayground.png Graphic file (type png)
 
 <use images/strFinderPlayground.png>
-Package pdftex.def Info: images/strFinderPlayground.png used on input line 975.
+Package pdftex.def Info: images/strFinderPlayground.png used on input line 973.
 
 (pdftex.def)             Requested size: 418.25368pt x 218.17627pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 970--977
+Underfull \hbox (badness 10000) in paragraph at lines 968--975
 
  []
 
-[47 <./images/folderStrFinder.png>] [48 <./images/strFinderPlayground.png>]
-<images/outputfolder.png, id=1052, 475.02469pt x 268.00125pt>
+[45 <./images/folderStrFinder.png>] [46 <./images/strFinderPlayground.png>]
+<images/outputfolder.png, id=1058, 475.02469pt x 268.00125pt>
 File: images/outputfolder.png Graphic file (type png)
 
 <use images/outputfolder.png>
-Package pdftex.def Info: images/outputfolder.png used on input line 995.
+Package pdftex.def Info: images/outputfolder.png used on input line 993.
 (pdftex.def)             Requested size: 418.25368pt x 235.98085pt.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 998.
+ [47]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 996.
 
-<images/logOutput.png, id=1054, 753.5653pt x 599.23875pt>
+<images/logOutput.png, id=1064, 753.5653pt x 599.23875pt>
 File: images/logOutput.png Graphic file (type png)
 
 <use images/logOutput.png>
-Package pdftex.def Info: images/logOutput.png used on input line 1002.
+Package pdftex.def Info: images/logOutput.png used on input line 1000.
 (pdftex.def)             Requested size: 418.25368pt x 332.59059pt.
- [49 <./images/outputfolder.png>]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1006.
+ [48 <./images/outputfolder.png>]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1004.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1006--1008
+Underfull \hbox (badness 10000) in paragraph at lines 1004--1006
 
  []
 
-[50 <./images/logOutput.png>]
-<images/folderPerfect.png, id=1064, 536.0025pt x 228.855pt>
+<images/folderPerfect.png, id=1070, 536.0025pt x 228.855pt>
 File: images/folderPerfect.png Graphic file (type png)
 
 <use images/folderPerfect.png>
-Package pdftex.def Info: images/folderPerfect.png used on input line 1012.
+Package pdftex.def Info: images/folderPerfect.png used on input line 1010.
 (pdftex.def)             Requested size: 418.25368pt x 178.5795pt.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1015.
+ [49 <./images/logOutput.png>]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1013.
 
-<images/strAnalyzerPlayground.png, id=1066, 535.2497pt x 296.60812pt>
+<images/strAnalyzerPlayground.png, id=1076, 535.2497pt x 296.60812pt>
 File: images/strAnalyzerPlayground.png Graphic file (type png)
 
 <use images/strAnalyzerPlayground.png>
 Package pdftex.def Info: images/strAnalyzerPlayground.png used on input line 10
-20.
+18.
 (pdftex.def)             Requested size: 418.25368pt x 231.78336pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1015--1022
+Underfull \hbox (badness 10000) in paragraph at lines 1013--1020
 
  []
 
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1024.
-<images/logOutAna.png, id=1068, 286.06876pt x 52.69687pt>
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1022.
+<images/logOutAna.png, id=1078, 286.06876pt x 52.69687pt>
 File: images/logOutAna.png Graphic file (type png)
 
 <use images/logOutAna.png>
-Package pdftex.def Info: images/logOutAna.png used on input line 1028.
+Package pdftex.def Info: images/logOutAna.png used on input line 1026.
 (pdftex.def)             Requested size: 418.25368pt x 77.04773pt.
- [51 <./images/folderPerfect.png> <./images/strAnalyzerPlayground.png>]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1032.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1032.
+ [50 <./images/folderPerfect.png> <./images/strAnalyzerPlayground.png>]
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1030.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1030.
 
-<images/ldiffPlayground.png, id=1076, 491.58656pt x 338.76563pt>
+<images/ldiffPlayground.png, id=1085, 491.58656pt x 338.76563pt>
 File: images/ldiffPlayground.png Graphic file (type png)
 
 <use images/ldiffPlayground.png>
-Package pdftex.def Info: images/ldiffPlayground.png used on input line 1037.
+Package pdftex.def Info: images/ldiffPlayground.png used on input line 1035.
 (pdftex.def)             Requested size: 418.25368pt x 288.2416pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1032--1039
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1037
 
  []
 
-[52 <./images/logOutAna.png>]
-<images/compareFolderStr.png, id=1081, 294.34969pt x 262.73157pt>
+[51 <./images/logOutAna.png>]
+<images/compareFolderStr.png, id=1091, 294.34969pt x 262.73157pt>
 File: images/compareFolderStr.png Graphic file (type png)
 
 <use images/compareFolderStr.png>
-Package pdftex.def Info: images/compareFolderStr.png used on input line 1046.
+Package pdftex.def Info: images/compareFolderStr.png used on input line 1044.
 (pdftex.def)             Requested size: 418.25368pt x 373.32997pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1046
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1040--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1046
 
  []
 
-[53 <./images/ldiffPlayground.png>]
-<images/crossPlayground.png, id=1086, 417.05812pt x 272.51813pt>
+[52 <./images/ldiffPlayground.png>]
+<images/crossPlayground.png, id=1096, 417.05812pt x 272.51813pt>
 File: images/crossPlayground.png Graphic file (type png)
 
 <use images/crossPlayground.png>
-Package pdftex.def Info: images/crossPlayground.png used on input line 1053.
+Package pdftex.def Info: images/crossPlayground.png used on input line 1051.
 (pdftex.def)             Requested size: 418.25368pt x 273.31584pt.
- [54 <./images/compareFolderStr.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1056--1060
+ [53 <./images/compareFolderStr.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1058
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1056--1060
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1058
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1056--1060
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1058
 
  []
 
-[55 <./images/crossPlayground.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1063.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1063.
- (thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1063.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1063.
+[54 <./images/crossPlayground.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1061.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1061.
+ (./thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1061.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1061.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 1FF3E38E99F38ABC7B255F496C2C1695;3622.
+(rerunfilecheck)             Checksum: 2BCA88ACB574F1F1C0BF9F0264D5B6A3;3571.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1063.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1061.
  ) 
 Here is how much of TeX's memory you used:
- 44357 strings out of 493335
- 1002740 string characters out of 3139257
- 1237715 words of memory out of 3000000
- 46743 multiletter control sequences out of 15000+200000
- 64598 words of font info for 175 fonts, out of 3000000 for 9000
+ 44462 strings out of 493014
+ 1007747 string characters out of 6133351
+ 1236760 words of memory out of 5000000
+ 46825 multiletter control sequences out of 15000+600000
+ 80207 words of font info for 206 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,19n,108p,10408b,2346s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/ur
-w/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (59 pages, 1220282 bytes).
+ 58i,19n,108p,10406b,2346s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/latxfont/lasy6.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/
+type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/u
+rw/helvetic/uhvro8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/tim
+es/utmb8a.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.
+pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (58 pages, 1149360 bytes).
 PDF statistics:
- 1200 PDF objects out of 1200 (max. 8388607)
- 221 named destinations out of 1000 (max. 500000)
- 26633 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 1228 PDF objects out of 1440 (max. 8388607)
+ 961 compressed objects within 10 object streams
+ 220 named destinations out of 1000 (max. 500000)
+ 39433 words of extra memory for PDF output out of 42996 (max. 10000000)
 

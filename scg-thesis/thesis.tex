@@ -41,13 +41,13 @@
 \chapter*{\centering Abstract}
 \begin{quotation}
 \noindent 
-For processing data, it is necessary for the computer to parse it into a readable format. The building of a parser requires a model of the grammar of the input. For many new programming language dialects and log files, these models are sometimes not available. For creating a model, the structure and grammar information must be inferred from the source code, which is a time consuming process. The goal of this project is to find structure of software code automatically. We introduce in this thesis a clustering approach with k-means. Through different representations -numerical vectors inferred from the textual information of segments of the input- structural information should be exploited and assigned to different clusters according to their similarity.
+For processing data, it is necessary for the computer to parse it into a readable format. The building of a parser requires a model of the grammar of the input. For many new programming language dialects and log files, these models are sometimes not available. For creating a model, the structure and grammar information must be inferred from the source code, which is a time consuming process. The goal of this project is to find structure of software code automatically \ho{you did not find structure but rather cluster similarly structured statements together}. We introduce in this thesis a clustering approach with k-means. Through different representations -numerical vectors inferred from the textual information of segments of the input- structural information should be exploited and assigned to different clusters according to their similarity.
 
 For splitting the input into representation vectors, the smallest instance that can hold structure is found. These are then clustered using the k-means algorithm. This should help developers get a better overview of the data and in a perfect case, make them able to create parser rules for each cluster based on its nearest assigned statements.
 
-The used approach has some promising results, assigning different patterns into different clusters. For measuring the performance of our representation methods, we calculate v-measure scores ranging from $0$ to $1$, with $1$ being a complete match. Out of 24 possible combination of representation, four representations achieved good results, having a v-measure score equal or higher than $0.66$ for Java and another 4 with satisfying results, having equal or better scores than $0.4$. The representation methods who did well on Java, also do a good job, clustering C\#, XML and ABACUS log files, but perform poor on Brainfuck, with v-measure scores around $0$.
+The used approach has some promising results, assigning different patterns into different clusters. For measuring the performance of our representation methods, we calculate v-measure scores ranging from $0$ to $1$, with $1$ being a complete match. Out of 24 possible combination of representation, four representations achieved good results, having a v-measure score equal or higher than $0.66$ for Java and another 4 with satisfying results, having equal or better scores than $0.4$. The representation methods which do well on Java, also do a good job, clustering C\#, XML and ABACUS log files, but perform poorly on Brainfuck, with v-measure scores around $0$.
 
-Having the concept of clustering languages, the resulting clusters were used to calculate a precision value measuring the overlap of the clusters of a first language with the vector representations of a second language for classifying the degree of relation between them. 
+\ugh{Having the concept of clustering languages, the resulting clusters were used to calculate a precision value measuring the overlap of the clusters of a first language with the vector representations of a second language for classifying the degree of relation between them.}\ho{rephrase in a clearer way}
 Unfortunately, our approach did not perform well, as it classified every language with the exception of XML, as very closely related.
 \end{quotation}
 \clearpage
@@ -93,6 +93,7 @@ Recognizing Patterns is an easy task for humans, as we learn at a very young age
 This thesis concentrates on unsupervised classification and uses the k-means algorithm as described in the lectures of Andrew Ng \cite{ngcs229} for assigning classifications to our code and log file contents.
 
 In this thesis we use a numerical representation for the input data. Brenda S Baker introduces the idea of a numerical representation of software code to find duplicates in software code that differ only in the naming of the parameters \cite{baker1993theory}. Unfortunately, this idea relies on knowing fundamental structures of the language used. But nevertheless, this led to the idea, to not separate between a language set and a parameter set, but between different sets of tokens. In this thesis, the sets are words, numerals and punctuation.
+\ho{First, related work should be a chapter of its own. Second, what you have here is not a related work section. You need to look at what other people did in the past to solve this problem. How is your work different from theirs? How is your work similar to theirs? How does your work fit in the big picture? \etc}
 
 \section{Outline}
 The rest of the thesis is structured as follows:
@@ -183,7 +184,7 @@ label=lst:type structure representation,]
 The Type Specific Representer uses the same structural information for calculating the vector representation as the Type Structure Representer. But instead of assigning a single value per type, the Type Specific Representer assigns a value per encountered unique token, with the exception of bracket symbols, for which opening and closing brackets are treated as one unique token.
 
 To maintain the structural information of the statement, the assigned value per unique token is then normed into intervals, corresponding to the defined type values in subsection \ref{sec:type-structure-representer}.
-A element of the vector representation is then calculated as follows:
+An element of the vector representation is then calculated as follows:
 
 \begin{centering}
 	$\displaystyle \centering vector\_element = \frac{1}{assigned\_token\_value} + type\_value$\\
@@ -287,7 +288,7 @@ K-means is an unsupervised clustering algorithm. It clusters the given data in k
 	\includegraphics[width=0.8\textwidth]{kmeansformula}
 	\caption{Mathematical expression of k-means \cite{ngcs229}.}
 \end{figure}
-\pagebreak
+
 A practical example of the k-means algorithm:\newline
 	\begin{figure}[H]
 		\centering
@@ -303,7 +304,7 @@ $J$ measures the sum of the squared distances between each training example $x^{
 \section{The Elbow Method}
 \label{sec:elbow}
 One problem of the k-means algorithm is that the parameter k must be known, which in our case is not known. K is dependent on the given input on which we want to limit our assumptions. Therefore, a way to algorithmically calculate k is needed. The idea behind the Elbow Method, is to find the number of centroids, so that if you add one centroid, the fit of the centroids to the data - measured by the cost function J-  does not improve significantly any more. In the case of k equals one, the position of the centroid would be the mean of all data points and in the case of k equals the number of all data points, the centroids would be the points themselves. As a consequence, k equals one results in the worst fit and while k equals the number of all data points gives perfect fit \cite{kodinariya2013review}. This can be illustrated by the following example where we normed J by k:
-\newline
+
 \begin{figure}[H]
 	\begin{center}
 		\begin{tikzpicture}
@@ -331,7 +332,7 @@ One problem of the k-means algorithm is that the parameter k must be known, whic
 	\end{center}
 \end{figure}
 As seen in the figure above, the improvement in the data modelling decreases as k becomes larger. By calculating the partial derivative $\displaystyle \frac{c_{i-1}-c_{i+1}}{k_{i-1} - k_{i+1}}$, the decrease can be measured. The partial derivative is maximized until it reaches a threshold $\alpha$, with $ \alpha \in \mathbb{R}^{^-}$. This value defines our guess for k.
-\pagebreak
+
 \section{Language Differentiation}
 \label{sec:langdiff}
 Based on the representation based k-means clustering, this thesis also provides a method to calculate a precision value of how closely related two languages are. For this, one language is clustered with the k-means algorithm. For each cluster the radius is calculated ranging from the coordinate of the centroid to the assigned data point which is the furthest away from the centroid. For comparing a second language to the first, it suffices, to only calculate the vector representation of the data as discussed in section \ref{sec:reps}. For each represented data point of the second language, it is then checked, if it is inside any circle spanned from the previously calculated radii. The precision value describing the relation is calculated as follows:\newline
@@ -340,13 +341,14 @@ Based on the representation based k-means clustering, this thesis also provides 
 \end{center}
 
 This means, that for any given two languages, the result $1$ indicates that the two languages are related closely and $0$ indicates that the languages are completely different. 
-The two dimensional visualisation can be found in Figure \ref{fig:exLangDiff}. The red and blue crosses represent the data points of the clusters of the clustered language, with the centroid as the centre and the green crosses being the data points of the second language:
-\begin{figure}[H]
+The two dimensional visualisation can be found in Figure \ref{fig:exLangDiff}. The red and blue crosses represent the data points of the clusters of the clustered language, with the centroid as the centre and the green crosses being the data points of the second language.
+\begin{figure}[]
 	\centering
-	\includegraphics[width=0.8\textwidth]{circles.pdf}
+	\includegraphics[width=0.7\textwidth]{circles.pdf}
 	\caption{Two dimensional example of Language Differentiation}
 	\label{fig:exLangDiff}
 \end{figure}
+
 In this example, only one of two green crosses, the data point of the second language, inside one of the two circles spanned from the radii of the previously calculated k-means clusterings blue and red. This would result in a precision value of $ \displaystyle\frac{1}{2}=0.5$.
 
 \chapter{Implementation}
@@ -477,7 +479,7 @@ The smaller $\alpha$, the smaller is k. These two plots show, that a value of $-
 
 \section{Evaluating the Representations}
 \label{sec:eval_kmeans}
-Representations are a important part of StructureFinder, because they change the behaviour of the k-means algorithm. For further evaluation we want to know, which Representers perform well and should therefore be used if a new language is clustered. 
+Representations are an important part of StructureFinder, because they change the behaviour of the k-means algorithm. For further evaluation we want to know, which Representers perform well and should therefore be used if a new language is clustered. 
 
 
 \subsection{V-Measure scores for Java}\label{sec:v-measure-scores-for-java}
@@ -945,7 +947,7 @@ The main effort in this bachelor thesis lies in the implementation of the cluste
 	\item \textbf{StructureAnalyzer.} Analysing mode of StructureFinder, clusters the input and returns additional information about how well it performed.
 	\item \textbf{LanguageDifferentiator.} Expansion of StructureFinder, calculates a precision value for two input languages or can additional be used for cross comparison of different languages.
 \end{itemize}
-\pagebreak
+
 \section{Getting Started}
 For replicating the results of this thesis or to play around with the clustering mechanics Pharo 4.0 and the used Image File in this thesis.\\\\
 Pharo 4.0 with a standard Pharo 4.0 Image can be downloaded from:\\\\

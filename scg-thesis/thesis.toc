@@ -16,37 +16,37 @@
 \contentsline {subsection}{\numberline {2.2.7}Weight Inverse Representer}{9}{subsection.2.2.7}
 \contentsline {section}{\numberline {2.3}K-Means}{9}{section.2.3}
 \contentsline {section}{\numberline {2.4}The Elbow Method}{11}{section.2.4}
-\contentsline {section}{\numberline {2.5}Language Differentiation}{13}{section.2.5}
-\contentsline {chapter}{\numberline {3}Implementation}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}Technology}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}K-Means Pipeline}{15}{section.3.2}
-\contentsline {section}{\numberline {3.3}Language Differentiation Pipeline}{17}{section.3.3}
-\contentsline {section}{\numberline {3.4}Execution Time}{19}{section.3.4}
-\contentsline {section}{\numberline {3.5}Testing}{19}{section.3.5}
-\contentsline {chapter}{\numberline {4}Evaluation}{20}{chapter.4}
-\contentsline {section}{\numberline {4.1}Evaluation Setup}{20}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}V-Measures}{21}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}The Elbow Method}{22}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}Evaluating the Representations}{23}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}V-Measure scores for Java}{23}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Discussion}{25}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Type Structure vs. Type Specific}{26}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Applicability for other languages}{27}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}C\#}{28}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}C++}{29}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Phyton}{29}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {4.3.4}XML}{30}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {4.3.5}ABACUS log file}{31}{subsection.4.3.5}
-\contentsline {subsection}{\numberline {4.3.6}Brainfuck}{31}{subsection.4.3.6}
-\contentsline {subsection}{\numberline {4.3.7}Discussion}{32}{subsection.4.3.7}
-\contentsline {section}{\numberline {4.4}Evaluation the Output}{33}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Discussion}{35}{subsection.4.4.1}
-\contentsline {section}{\numberline {4.5}Evaluating Language Differentiation}{35}{section.4.5}
-\contentsline {chapter}{\numberline {5}Conclusions and Future Work}{38}{chapter.5}
-\contentsline {section}{\numberline {5.1}Future Work}{39}{section.5.1}
-\contentsline {chapter}{\numberline {6}Anleitung zu wissenschaftlichen Arbeiten}{45}{chapter.6}
-\contentsline {section}{\numberline {6.1}Introduction}{45}{section.6.1}
-\contentsline {section}{\numberline {6.2}Getting Started}{46}{section.6.2}
-\contentsline {section}{\numberline {6.3}Structure Finder}{46}{section.6.3}
-\contentsline {section}{\numberline {6.4}Structure Analyzer}{50}{section.6.4}
-\contentsline {section}{\numberline {6.5}Language Differentiator}{52}{section.6.5}
+\contentsline {section}{\numberline {2.5}Language Differentiation}{12}{section.2.5}
+\contentsline {chapter}{\numberline {3}Implementation}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}Technology}{14}{section.3.1}
+\contentsline {section}{\numberline {3.2}K-Means Pipeline}{14}{section.3.2}
+\contentsline {section}{\numberline {3.3}Language Differentiation Pipeline}{16}{section.3.3}
+\contentsline {section}{\numberline {3.4}Execution Time}{18}{section.3.4}
+\contentsline {section}{\numberline {3.5}Testing}{18}{section.3.5}
+\contentsline {chapter}{\numberline {4}Evaluation}{19}{chapter.4}
+\contentsline {section}{\numberline {4.1}Evaluation Setup}{19}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}V-Measures}{20}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}The Elbow Method}{21}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Evaluating the Representations}{22}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}V-Measure scores for Java}{22}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Discussion}{24}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Type Structure vs. Type Specific}{25}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Applicability for other languages}{26}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}C\#}{27}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}C++}{28}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}Phyton}{28}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}XML}{29}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}ABACUS log file}{30}{subsection.4.3.5}
+\contentsline {subsection}{\numberline {4.3.6}Brainfuck}{30}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.3.7}Discussion}{31}{subsection.4.3.7}
+\contentsline {section}{\numberline {4.4}Evaluation the Output}{32}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Discussion}{34}{subsection.4.4.1}
+\contentsline {section}{\numberline {4.5}Evaluating Language Differentiation}{34}{section.4.5}
+\contentsline {chapter}{\numberline {5}Conclusions and Future Work}{37}{chapter.5}
+\contentsline {section}{\numberline {5.1}Future Work}{38}{section.5.1}
+\contentsline {chapter}{\numberline {6}Anleitung zu wissenschaftlichen Arbeiten}{44}{chapter.6}
+\contentsline {section}{\numberline {6.1}Introduction}{44}{section.6.1}
+\contentsline {section}{\numberline {6.2}Getting Started}{44}{section.6.2}
+\contentsline {section}{\numberline {6.3}Structure Finder}{45}{section.6.3}
+\contentsline {section}{\numberline {6.4}Structure Analyzer}{49}{section.6.4}
+\contentsline {section}{\numberline {6.5}Language Differentiator}{51}{section.6.5}
