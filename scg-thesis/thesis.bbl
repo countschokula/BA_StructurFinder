@@ -8,23 +8,42 @@
 \url{http://www.abacus.ch/}, 2016.
 \newblock [Online; accessed 21-August-2016].
 
-\bibitem{baker1993theory}
-Brenda~S Baker.
-\newblock A theory of parameterized pattern matching: algorithms and
-  applications.
-\newblock In {\em Proceedings of the twenty-fifth annual ACM symposium on
-  Theory of computing}, pages 71--80. ACM, 1993.
-
 \bibitem{bergel2013deep}
 Alexandre Bergel, Damien Cassou, St{\'e}phane Ducasse, and Jannik Laval.
 \newblock {\em Deep Into Pharo}.
 \newblock Lulu. com, 2013.
+
+\bibitem{Bod:2006:AAU:1220175.1220284}
+Rens Bod.
+\newblock An all-subtrees approach to unsupervised parsing.
+\newblock In {\em Proceedings of the 21st International Conference on
+  Computational Linguistics and the 44th Annual Meeting of the Association for
+  Computational Linguistics}, ACL-44, pages 865--872, Stroudsburg, PA, USA,
+  2006. Association for Computational Linguistics.
+
+\bibitem{Bod:2006:UPU:1596276.1596293}
+Rens Bod.
+\newblock Unsupervised parsing with u-dop.
+\newblock In {\em Proceedings of the Tenth Conference on Computational Natural
+  Language Learning}, CoNLL-X '06, pages 85--92, Stroudsburg, PA, USA, 2006.
+  Association for Computational Linguistics.
+
+\bibitem{dennis2005exemplar}
+Simon Dennis.
+\newblock An exemplar-based approach to unsupervised parsing.
+\newblock In {\em Proceedings of the 27th Conference of the Cognitive Science
+  Society}, 2005.
 
 \bibitem{dubey2006inferring}
 Alpana Dubey, Pankaj Jalote, and Sanjeev~Kumar Aggarwal.
 \newblock Inferring grammar rules of programming language dialects.
 \newblock In {\em International Colloquium on Grammatical Inference}, pages
   201--213. Springer, 2006.
+
+\bibitem{guggisberg2015automatic}
+Jo{\"e}l Guggisberg, Oscar Nierstrasz, and Phd~Jan Kur{\v{s}}.
+\newblock Automatic token classification.
+\newblock 2015.
 
 \bibitem{jain2000statistical}
 Anil~K Jain, Robert P.~W. Duin, and Jianchang Mao.
@@ -52,6 +71,14 @@ Oscar Nierstrasz and Mircea Lungu.
 \newblock Agile software assessment.
 \newblock In {\em Program Comprehension (ICPC), 2012 IEEE 20th International
   Conference on}, pages 3--10. IEEE, 2012.
+
+\bibitem{reichart2009automatic}
+Roi Reichart and Ari Rappoport.
+\newblock Automatic selection of high quality parses created by a fully
+  unsupervised parser.
+\newblock In {\em Proceedings of the Thirteenth Conference on Computational
+  Natural Language Learning}, pages 156--164. Association for Computational
+  Linguistics, 2009.
 
 \bibitem{rob2016k}
 David Robinson.

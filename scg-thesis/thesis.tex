@@ -41,13 +41,13 @@
 \chapter*{\centering Abstract}
 \begin{quotation}
 \noindent 
-For processing data, it is necessary for the computer to parse it into a readable format. The building of a parser requires a model of the grammar of the input. For many new programming language dialects and log files, these models are sometimes not available. For creating a model, the structure and grammar information must be inferred from the source code, which is a time consuming process. The goal of this project is to find structure of software code automatically \ho{you did not find structure but rather cluster similarly structured statements together}. We introduce in this thesis a clustering approach with k-means. Through different representations -numerical vectors inferred from the textual information of segments of the input- structural information should be exploited and assigned to different clusters according to their similarity.
+For processing data, it is necessary for the computer to parse it into a readable format. The building of a parser requires a model of the grammar of the input. For many new programming language dialects and log files, these models are sometimes not available. For creating a model, the structure and grammar information must be inferred from the source code, which is a time consuming process. The goal of this project is to automatically provide an overview of over different structures of the source code language. We introduce in this thesis a clustering approach with k-means. Through different representations -numerical vectors inferred from the textual information of segments of the input- structural information should be exploited and assigned to different clusters according to their similarity.
 
 For splitting the input into representation vectors, the smallest instance that can hold structure is found. These are then clustered using the k-means algorithm. This should help developers get a better overview of the data and in a perfect case, make them able to create parser rules for each cluster based on its nearest assigned statements.
 
 The used approach has some promising results, assigning different patterns into different clusters. For measuring the performance of our representation methods, we calculate v-measure scores ranging from $0$ to $1$, with $1$ being a complete match. Out of 24 possible combination of representation, four representations achieved good results, having a v-measure score equal or higher than $0.66$ for Java and another 4 with satisfying results, having equal or better scores than $0.4$. The representation methods which do well on Java, also do a good job, clustering C\#, XML and ABACUS log files, but perform poorly on Brainfuck, with v-measure scores around $0$.
 
-\ugh{Having the concept of clustering languages, the resulting clusters were used to calculate a precision value measuring the overlap of the clusters of a first language with the vector representations of a second language for classifying the degree of relation between them.}\ho{rephrase in a clearer way}
+Having the concept of clustering languages, the resulting clusters were used to calculate a precision value for classifying the degree of relation between two languages. The precision value is calculated measuring the overlap of the clusters of a first language with the vector representations of a second language.
 Unfortunately, our approach did not perform well, as it classified every language with the exception of XML, as very closely related.
 \end{quotation}
 \clearpage
@@ -87,13 +87,6 @@ To achieve a solution to these sub-problems, certain assumptions about the commo
 \end{itemize}
 
 
-\section{Related Work}
-Recognizing Patterns is an easy task for humans, as we learn at a very young age to recognize patterns such as digits whether they are handwritten, machine printed, bold, italic or even rotated. Decision making relies on correctly interpreting the patterns of your surroundings \cite{jain2000statistical}. The same statements are also true for computers. For this reason, there is extensive research in supervised and unsupervised classification algorithms. This thesis applies techniques that are also used in many other fields such as Data Mining, Document Classification and even bioinformatics \cite{jain2000statistical}.
-
-This thesis concentrates on unsupervised classification and uses the k-means algorithm as described in the lectures of Andrew Ng \cite{ngcs229} for assigning classifications to our code and log file contents.
-
-In this thesis we use a numerical representation for the input data. Brenda S Baker introduces the idea of a numerical representation of software code to find duplicates in software code that differ only in the naming of the parameters \cite{baker1993theory}. Unfortunately, this idea relies on knowing fundamental structures of the language used. But nevertheless, this led to the idea, to not separate between a language set and a parameter set, but between different sets of tokens. In this thesis, the sets are words, numerals and punctuation.
-\ho{First, related work should be a chapter of its own. Second, what you have here is not a related work section. You need to look at what other people did in the past to solve this problem. How is your work different from theirs? How is your work similar to theirs? How does your work fit in the big picture? \etc}
 
 \section{Outline}
 The rest of the thesis is structured as follows:
@@ -105,6 +98,11 @@ The rest of the thesis is structured as follows:
 \textbf{chapter 4} uses experiments to gather information about the performance of our implemented approach and discusses those findings.
 
 \textbf{chapter 5} concludes the work and discusses topics for future expanding StructureFinder.
+
+\chapter{Related Work}
+Recognizing Patterns is an easy task for humans, as we learn at a very young age to recognize patterns such as digits whether they are handwritten, machine printed, bold, italic or even rotated. Decision making relies on correctly interpreting the patterns of your surroundings \cite{jain2000statistical}. The same statements are also true for computers. For this reason, there is extensive research in supervised and unsupervised classification algorithms. This thesis applies techniques that are also used in many other fields such as Data Mining, Document Classification and even bioinformatics \cite{jain2000statistical}.
+
+Most of the work done in the field of automatic recognition of languages is related to natural language procession (NLP). There are different papers regarding unsupervised parsing of natural languages, using part-of-speech (POS) tags or data oriented parsing (DOP) \cite{Bod:2006:AAU:1220175.1220284} \cite{reichart2009automatic} \cite{Bod:2006:UPU:1596276.1596293} \cite{dennis2005exemplar}. In regards to automatic recognition of structure in software languages there are not many research articles to be found. Joel Guggisberg \cite{guggisberg2015automatic} used static code analysis to create heuristics for finding keywords of programming languages from source code, but had to make assumptions on the placement of keywords in software code. Our approach in learning about the source code language differs in limiting the assumptions made on the input, allowing to also analyse log files, and making it not a static but a statistical problem. To the best of our knowledge this is the first attempt to use unsupervised clustering algorithm to cluster structure according to similarities.
 
 \chapter{Methods}
 \label{sec:methods}

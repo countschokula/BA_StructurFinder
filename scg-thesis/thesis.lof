@@ -1,28 +1,29 @@
 \select@language {english}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Mathematical expression of k-means \cite {ngcs229}.}}{10}{figure.2.1}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Example of k-means iteration \cite {ngcs229}.}}{10}{figure.2.2}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Average Fit per centroid per k, calculated with StructureFinder using Java file input and TypeStructureRepresenter.}}{11}{figure.2.3}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Two dimensional example of Language Differentiation}}{13}{figure.2.4}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Simplified data flow chart of the single k k-means pipeline.}}{15}{figure.3.1}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Simplified data flow chart of the expanded k-means pipeline, with highlighted differences to \ref {fig:kmeanspipeline} in yellow.}}{16}{figure.3.2}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Simplified data flow chart of the Language Differentiator pipeline.}}{17}{figure.3.3}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Mathematical expression of k-means \cite {ngcs229}.}}{11}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Example of k-means iteration \cite {ngcs229}.}}{11}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Average Fit per centroid per k, calculated with StructureFinder using Java file input and TypeStructureRepresenter.}}{12}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Two dimensional example of Language Differentiation}}{14}{figure.3.4}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Plot of elbow method. Heuristic value of k, given $\alpha $.}}{21}{figure.4.1}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Nearest statements per centroids, created witch Type Structure Representer}}{32}{figure.4.2}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Nearest statements per centroids, created witch Type Specific Representer}}{33}{figure.4.3}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Overlap of clusters in Language Differentiator}}{35}{figure.4.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Simplified data flow chart of the single k k-means pipeline.}}{16}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Simplified data flow chart of the expanded k-means pipeline, with highlighted differences to \ref {fig:kmeanspipeline} in yellow.}}{17}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Simplified data flow chart of the Language Differentiator pipeline.}}{18}{figure.4.3}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Plot of elbow method. Heuristic value of k, given $\alpha $.}}{22}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Nearest statements per centroids, created witch Type Structure Representer}}{33}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Nearest statements per centroids, created witch Type Specific Representer}}{34}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Overlap of clusters in Language Differentiator}}{36}{figure.5.4}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Folder structure for setting up the StructureFinder tool, testFiles is the root folder}}{45}{figure.6.1}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces Pharo 4.0 playground for configuring and running StructureFinder}}{46}{figure.6.2}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces Output Folders and Files under Windows}}{48}{figure.6.3}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Example of "configuration\_used.txt" log file.}}{49}{figure.6.4}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces Set up of perfect example for analysing}}{50}{figure.6.5}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Preconfigured StructureAnalyzer Playground}}{50}{figure.6.6}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces Log file "configuration\_used", added performance information from analysation.}}{51}{figure.6.7}
-\contentsline {figure}{\numberline {6.8}{\ignorespaces Language Differentiator Playground}}{52}{figure.6.8}
-\contentsline {figure}{\numberline {6.9}{\ignorespaces Language Differentiator compare folder structure}}{53}{figure.6.9}
-\contentsline {figure}{\numberline {6.10}{\ignorespaces Language Differentiator cross comparison}}{54}{figure.6.10}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Folder structure for setting up the StructureFinder tool, testFiles is the root folder}}{46}{figure.7.1}
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Pharo 4.0 playground for configuring and running StructureFinder}}{47}{figure.7.2}
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Output Folders and Files under Windows}}{49}{figure.7.3}
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Example of "configuration\_used.txt" log file.}}{50}{figure.7.4}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Set up of perfect example for analysing}}{51}{figure.7.5}
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Preconfigured StructureAnalyzer Playground}}{51}{figure.7.6}
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Log file "configuration\_used", added performance information from analysation.}}{52}{figure.7.7}
+\contentsline {figure}{\numberline {7.8}{\ignorespaces Language Differentiator Playground}}{53}{figure.7.8}
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Language Differentiator compare folder structure}}{54}{figure.7.9}
+\contentsline {figure}{\numberline {7.10}{\ignorespaces Language Differentiator cross comparison}}{55}{figure.7.10}
