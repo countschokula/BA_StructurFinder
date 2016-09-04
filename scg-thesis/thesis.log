@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.29)  28 AUG 2016 20:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.29)  4 SEP 2016 18:00
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -2934,8 +2934,6 @@ Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
 70.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 274.
-Package xcolor Info: Setting color `{}{0 0 1 rg 0 0 1 RG}{rgb}{0,0,1}' on input
- line 274.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 276.
 Package xcolor Info: Setting color `{}{0.9 g 0.9 G}{gray}{0.9}' on input line 2
 76.
@@ -3365,85 +3363,85 @@ Package xcolor Info: Redefining color `pgfstrokecolor' on input line 598.
 Package xcolor Info: Redefining color `pgffillcolor' on input line 598.
 Package xcolor Info: Redefining color `pgfstrokecolor' on input line 598.
  [26]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 604.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 604.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 605.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 605.
 PGFPlots: reading {vmeasures/vmeasurescsharp.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 635--636
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 636--637
  [] 
  []
 
 [27]
 PGFPlots: reading {vmeasures/vmeasurescpp.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 671--672
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 672--673
  [] 
  []
 
 [28]
-Underfull \hbox (badness 10000) in paragraph at lines 674--676
+Underfull \hbox (badness 10000) in paragraph at lines 675--677
 
  []
 
 PGFPlots: reading {vmeasures/vmeasuresphyton.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 706--707
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 707--708
  [] 
  []
 
 [29]
 PGFPlots: reading {vmeasures/vmeasuresxml.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 741--742
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 742--743
  [] 
  []
 
 PGFPlots: reading {vmeasures/vmeasureslog.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 778--779
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 779--780
  [] 
  []
 
 [30]
 PGFPlots: reading {vmeasures/vmeasuresbrainfuck.csv}
 
-Overfull \hbox (26.7144pt too wide) in paragraph at lines 814--815
+Overfull \hbox (26.7144pt too wide) in paragraph at lines 815--816
  [] 
  []
 
 [31]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 823.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 824.
  [32]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 832.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 832.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 832.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 833.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 833.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 833.
 
 <images/TypeStructureStatemetns.png, id=831, 685.05937pt x 405.01312pt>
 File: images/TypeStructureStatemetns.png Graphic file (type png)
 
 <use images/TypeStructureStatemetns.png>
 Package pdftex.def Info: images/TypeStructureStatemetns.png used on input line 
-835.
+836.
 (pdftex.def)             Requested size: 418.25368pt x 247.2801pt.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 839.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 839.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 840.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 840.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 841.
  [33 <./images/TypeStructureStatemetns.png>] <images/TypeSpecificStatemetns.png
 , id=841, 1045.65656pt x 499.8675pt>
 File: images/TypeSpecificStatemetns.png Graphic file (type png)
 
 <use images/TypeSpecificStatemetns.png>
 Package pdftex.def Info: images/TypeSpecificStatemetns.png used on input line 8
-44.
+45.
 (pdftex.def)             Requested size: 418.25368pt x 199.94345pt.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 849.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 849.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 852.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 850.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 850.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 853.
  [34 <./images/TypeSpecificStatemetns.png>]
 PGFPlots: reading {langdiff.csv}
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 892.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 894.
 
-Underfull \hbox (badness 10000) in paragraph at lines 890--894
+Underfull \hbox (badness 10000) in paragraph at lines 892--896
 
  []
 
@@ -3451,22 +3449,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 890--894
 File: images/circlesoverlap.pdf Graphic file (type pdf)
 
 <use images/circlesoverlap.pdf>
-Package pdftex.def Info: images/circlesoverlap.pdf used on input line 899.
+Package pdftex.def Info: images/circlesoverlap.pdf used on input line 901.
 (pdftex.def)             Requested size: 334.60422pt x 280.90439pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 895--902
+Underfull \hbox (badness 10000) in paragraph at lines 897--904
 
  []
 
 [36 <./images/circlesoverlap.pdf>] [37]
 Chapter 6.
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 905.
+0.6,0.6}' on input line 907.
 [38
 
 ] [39]
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 933.
+0.6,0.6}' on input line 935.
  (thesis.lot
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 7.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 8.
@@ -3485,7 +3483,7 @@ Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 15.
 
 ]
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 934.
+0.6,0.6}' on input line 936.
  (thesis.lol
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 2.
@@ -3512,7 +3510,7 @@ Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 14.
 
 ]
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 935.
+0.6,0.6}' on input line 937.
  (thesis.lof
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 5.
 Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 5.
@@ -3563,24 +3561,24 @@ ch.  [][]$\T1/pcr/m/n/12 http : / /
 ) [44]
 Chapter 7.
 Package xcolor Info: Setting color `{}{0.6 0.6 0.6 rg 0.6 0.6 0.6 RG}{rgb}{0.6,
-0.6,0.6}' on input line 938.
+0.6,0.6}' on input line 940.
 
-Underfull \hbox (badness 10000) in paragraph at lines 950--955
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 950--955
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 950--955
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 950--955
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 952--957
 
  []
 
@@ -3590,18 +3588,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 950--955
 File: images/folderStrFinder.png Graphic file (type png)
 
 <use images/folderStrFinder.png>
-Package pdftex.def Info: images/folderStrFinder.png used on input line 963.
+Package pdftex.def Info: images/folderStrFinder.png used on input line 965.
 (pdftex.def)             Requested size: 334.60422pt x 221.96446pt.
 
 <images/strFinderPlayground.png, id=1047, 574.39594pt x 299.61937pt>
 File: images/strFinderPlayground.png Graphic file (type png)
 
 <use images/strFinderPlayground.png>
-Package pdftex.def Info: images/strFinderPlayground.png used on input line 971.
+Package pdftex.def Info: images/strFinderPlayground.png used on input line 973.
 
 (pdftex.def)             Requested size: 418.25368pt x 218.17627pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 966--973
+Underfull \hbox (badness 10000) in paragraph at lines 968--975
 
  []
 
@@ -3610,21 +3608,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 966--973
 File: images/outputfolder.png Graphic file (type png)
 
 <use images/outputfolder.png>
-Package pdftex.def Info: images/outputfolder.png used on input line 991.
+Package pdftex.def Info: images/outputfolder.png used on input line 993.
 (pdftex.def)             Requested size: 418.25368pt x 235.98085pt.
  [48]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 994.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 996.
 
 <images/logOutput.png, id=1062, 753.5653pt x 599.23875pt>
 File: images/logOutput.png Graphic file (type png)
 
 <use images/logOutput.png>
-Package pdftex.def Info: images/logOutput.png used on input line 998.
+Package pdftex.def Info: images/logOutput.png used on input line 1000.
 (pdftex.def)             Requested size: 418.25368pt x 332.59059pt.
  [49 <./images/outputfolder.png>]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1002.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1004.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1002--1004
+Underfull \hbox (badness 10000) in paragraph at lines 1004--1006
 
  []
 
@@ -3632,42 +3630,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 1002--1004
 File: images/folderPerfect.png Graphic file (type png)
 
 <use images/folderPerfect.png>
-Package pdftex.def Info: images/folderPerfect.png used on input line 1008.
+Package pdftex.def Info: images/folderPerfect.png used on input line 1010.
 (pdftex.def)             Requested size: 418.25368pt x 178.5795pt.
  [50 <./images/logOutput.png>]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1011.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1013.
 
 <images/strAnalyzerPlayground.png, id=1074, 535.2497pt x 296.60812pt>
 File: images/strAnalyzerPlayground.png Graphic file (type png)
 
 <use images/strAnalyzerPlayground.png>
 Package pdftex.def Info: images/strAnalyzerPlayground.png used on input line 10
-16.
+18.
 (pdftex.def)             Requested size: 418.25368pt x 231.78336pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1011--1018
+Underfull \hbox (badness 10000) in paragraph at lines 1013--1020
 
  []
 
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1020.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1022.
 <images/logOutAna.png, id=1076, 286.06876pt x 52.69687pt>
 File: images/logOutAna.png Graphic file (type png)
 
 <use images/logOutAna.png>
-Package pdftex.def Info: images/logOutAna.png used on input line 1024.
+Package pdftex.def Info: images/logOutAna.png used on input line 1026.
 (pdftex.def)             Requested size: 418.25368pt x 77.04773pt.
  [51 <./images/folderPerfect.png> <./images/strAnalyzerPlayground.png>]
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1028.
-Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1028.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1030.
+Package xcolor Info: Setting color `{}{0 g 0 G}{gray}{0}' on input line 1030.
 
 <images/ldiffPlayground.png, id=1084, 491.58656pt x 338.76563pt>
 File: images/ldiffPlayground.png Graphic file (type png)
 
 <use images/ldiffPlayground.png>
-Package pdftex.def Info: images/ldiffPlayground.png used on input line 1033.
+Package pdftex.def Info: images/ldiffPlayground.png used on input line 1035.
 (pdftex.def)             Requested size: 418.25368pt x 288.2416pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1035
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1037
 
  []
 
@@ -3676,15 +3674,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 1028--1035
 File: images/compareFolderStr.png Graphic file (type png)
 
 <use images/compareFolderStr.png>
-Package pdftex.def Info: images/compareFolderStr.png used on input line 1042.
+Package pdftex.def Info: images/compareFolderStr.png used on input line 1044.
 (pdftex.def)             Requested size: 418.25368pt x 373.32997pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1036--1044
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1046
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1036--1044
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1046
 
  []
 
@@ -3693,43 +3691,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 1036--1044
 File: images/crossPlayground.png Graphic file (type png)
 
 <use images/crossPlayground.png>
-Package pdftex.def Info: images/crossPlayground.png used on input line 1049.
+Package pdftex.def Info: images/crossPlayground.png used on input line 1051.
 (pdftex.def)             Requested size: 418.25368pt x 273.31584pt.
  [54 <./images/compareFolderStr.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1052--1056
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1058
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1052--1056
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1058
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1052--1056
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1058
 
  []
 
 [55 <./images/crossPlayground.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1059.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1059.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1061.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1061.
  (thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1059.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1059.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1061.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1061.
 
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 86F816A9A6E693EC3B6A167606F81D8F;3609.
+(rerunfilecheck)             Checksum: 0A6154EA14B70B270A1870FCCB54B0BD;3609.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1059.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1061.
  ) 
 Here is how much of TeX's memory you used:
- 44382 strings out of 493335
- 1003342 string characters out of 3139257
- 1237175 words of memory out of 3000000
- 46755 multiletter control sequences out of 15000+200000
+ 44384 strings out of 493335
+ 1003415 string characters out of 3139257
+ 1237171 words of memory out of 3000000
+ 46757 multiletter control sequences out of 15000+200000
  65273 words of font info for 181 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,19n,108p,10408b,2346s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3749,7 +3747,7 @@ w/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (59 pages, 1223634 bytes).
+Output written on thesis.pdf (59 pages, 1223461 bytes).
 PDF statistics:
  1209 PDF objects out of 1440 (max. 8388607)
  225 named destinations out of 1000 (max. 500000)
