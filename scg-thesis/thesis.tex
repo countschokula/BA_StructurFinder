@@ -829,7 +829,7 @@ We can see that StructureFinder can cluster different languages reasonably. For 
 
 \textbf{Summary.} Different Languages behave differently in our clustering approach. But with the exception of Brainfuck the v-measure scores for the clusterings are satisfying. It is unfortunately not possible at the moment to make predictions of how the composition of the language affects the outcome of the clustering algorithm, because related languages behave differently. This difference in behaviour could also be caused by the limited size of the input. It is important to note that the size of the input used for the evaluation was only around 300 lines of code each. Even though they were gathered from different source files, the results calculated in this thesis are purely experimental and do not allow for statistical conclusions on what to do or not to do in regards to the contents of the input. 
 
-\section{Evaluation the Output}
+\section{Evaluating the Output}
 If we take a look at the tables \ref{tab:measure-strcuture} and \ref{tab:measure-sec}, we can see that our calculated scores indicate that the clusterings made from StructureFinder to some extent matches our manually created clusterings. In this section we look now at the output of the tool -as described in section \ref{sec:kpipeline}- to find out, what we can learn from the nearest statements of the centroids and if these statements can help to gain an overview of the structure the languages used in our input files and thus help a developer in creating parser rules. For this we look at the nearest statements for Java input files, created using first, Type Structure Representer and second Type Specific Representer with elbow parameter $\alpha = -3$.
 \begin{figure}[H]
 	\centering

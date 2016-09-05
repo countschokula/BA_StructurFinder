@@ -39,7 +39,7 @@
 \contentsline {subsection}{\numberline {5.3.5}ABACUS log file}{31}{subsection.5.3.5}
 \contentsline {subsection}{\numberline {5.3.6}Brainfuck}{31}{subsection.5.3.6}
 \contentsline {subsection}{\numberline {5.3.7}Discussion}{32}{subsection.5.3.7}
-\contentsline {section}{\numberline {5.4}Evaluation the Output}{33}{section.5.4}
+\contentsline {section}{\numberline {5.4}Evaluating the Output}{33}{section.5.4}
 \contentsline {subsection}{\numberline {5.4.1}Discussion}{35}{subsection.5.4.1}
 \contentsline {section}{\numberline {5.5}Evaluating Language Differentiation}{35}{section.5.5}
 \contentsline {chapter}{\numberline {6}Conclusions and Future Work}{38}{chapter.6}
